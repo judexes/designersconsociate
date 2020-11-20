@@ -1,0 +1,25 @@
+
+.text-effect{
+    color: rgba(255,255,255,0.4);
+    font-size: 44px;
+    font-weight: 700;
+    display: inline-block;
+    position: relative;
+}
+
+
+.text-effect:before{
+    content: attr(data-effect);
+    color: #fff;
+    background: #ffc1073d;
+    overflow: hidden;
+    position: absolute;
+    top: 0;
+    left: 0;
+    clip-path: polygon(0% 0%, 30% 0%, 30% 100%, 0% 100%);
+    animation: slide 4s 1s linear infinite;
+}
+
+@keyframes slide{
+    50%{ clip-path: polygon(70% 0%, 100% 0%, 100% 100%, 70% 100%); }
+}
