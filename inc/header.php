@@ -1,14 +1,14 @@
 <head>
 	<!-- Meta Tags -->
-	<title>VDM | Collect property data rapidly and manage them efficiently with VDM</title>
-	<meta name="title" content="VDM">
-	<meta name="description" content="VDM makes managing property data faster, easier and more accurate. All the tools are built to remove the headaches involved with calculation, arithmetic, look-up, report generation and much more.">
-	<meta name="author" content="Imagefactor Ventures">
+	<title>We are committed to developing sustainable solutions that invigorate the African Fashion eco system</title>
+	<meta name="title" content="Designer's Consociate">
+	<meta name="description" content="We are committed to developing sustainable solutions that invigorate the African Fashion eco system">
+	<meta name="author" content="Designer's Consociate">
 	<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 	<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 	<meta name="robots" content="index, follow">
 	<meta name="language" content="English">
-    <meta name="keywords" content="VDM, Inspectify, Inspectify for VDM, Real Estate, Valuation, Property valuation, Data management, Estate Surveyors, Valuers, Managing property, Software, Imagefactor">
+    <meta name="keywords" content="Fashion, designers, Zara, design, craft, art, creator, cloth, fabric">
     
     <!-- MOBILE SCREEN TOP BAR -->
     <!-- Chrome, Firefox OS and Opera -->
@@ -19,6 +19,16 @@
     <meta name="apple-mobile-web-app-capable" content="yes">
     <meta name="apple-mobile-web-app-status-bar-style" content="#000">
 
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-2ZWRWPQKNW"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+
+        gtag('config', 'G-2ZWRWPQKNW');
+    </script>
+
     <!-- Bootstrap core CSS -->
     <link href="https://unpkg.com/aos@2.3.1/dist/aos.css" rel="stylesheet">
 
@@ -27,9 +37,6 @@
     
     <!-- Custom styles for this template -->
     <link href="css/responsive.css" rel="stylesheet">
-    
-    <!-- Custom styles for this template -->
-    <link href="css/effect.css" rel="stylesheet">
     
     <!-- Custom styles for this template -->
     <link href="css/app.css" rel="stylesheet">

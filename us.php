@@ -7,7 +7,7 @@
 
     <?php include 'inc/top-bar.php' ?>
 
-    <?php include 'sections/us.main.php' ?>
+    <?php include 'sections/us.php' ?>
 
     <?php include 'inc/footer.php' ?>
 

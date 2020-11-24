@@ -7,7 +7,6 @@
     position: relative;
 }
 
-
 .text-effect:before{
     content: attr(data-effect);
     color: #fff;
