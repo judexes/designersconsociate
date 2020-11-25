@@ -18,7 +18,7 @@
             </div>
             <div class="navbar-nav mr-auto text-center mt-5">
                 <p class="nav-item active">
-                    <a class="nav-link" href="us"><span class="link-border">Us</span></a>
+                    <a class="nav-link" href="us.php"><span class="link-border">Us</span></a>
                 </p>
                 <p class="nav-item">
                     <a class="nav-link" href="#"><span class="link-border">Our Projects</span></a>
