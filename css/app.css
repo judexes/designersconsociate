@@ -2,6 +2,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Belleza&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Limelight&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Abril+Fatface&family=Playfair+Display:ital,wght@0,400;0,500;0,600;0,700;0,800;0,900;1,400;1,500;1,600;1,700;1,800;1,900&family=Prata&family=Roboto+Mono:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;1,100;1,200;1,300;1,400;1,500;1,600;1,700&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&family=Spectral:ital,wght@0,200;0,300;0,400;0,500;0,600;0,700;0,800;1,200;1,300;1,400;1,500;1,600;1,700;1,800&family=Work+Sans:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;1,100;1,200;1,300;1,400;1,500;1,600;1,700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Crimson+Pro:ital,wght@0,200;0,300;0,400;0,500;0,600;0,700;1,200;1,300;1,400;1,500&family=Crimson+Text:ital,wght@0,400;0,600;0,700;1,400;1,600;1,700&display=swap');
 @font-face {
   font-family: 'Century Gothic Std';
   src: url('/css/fonts/CenturyGothicStd.woff2') format('woff2'),
@@ -47,8 +48,7 @@ body {
   font-family: 'Spectral', serif;
   font-family: 'Work Sans', sans-serif;
   font-family: 'Century Gothic Std';
-  font-weight: normal;
-  font-style: italic;
+  font-weight: 200;
   overflow-x: hidden;
   background-color: #fff;
 }
@@ -82,8 +82,28 @@ body::-webkit-scrollbar-thumb {
   color: #eee;
 }
 
+h1, h2, h3, h4, h5 {
+  letter-spacing: .031in;
+  font-family: 'Belleza', sans-serif;
+  font-family: 'Fjalla One', sans-serif;
+}
+
 p {
-  /* font-family: 'Raleway', sans-serif; */
+  font-family: 'Nunito', sans-serif;
+  font-family: 'Titillium Web', sans-serif;
+  font-weight: 300;
+}
+
+a:-webkit-any-link:focus {
+  outline-offset: 0px!important;
+}
+
+:focus {
+  outline: -webkit-focus-ring-color auto 0px;
+}
+
+a {
+  color: #fff;
 }
 
 
@@ -140,8 +160,13 @@ p {
   height: 65px;
 }
 
+.navbar-brand {
+  font-family: 'Work Sans', sans-serif; 
+  font-weight: 300;
+}
+
 .hamburger {
-  height: 50px;
+  height: 30px;
 }
 
 .nav-link {
@@ -156,6 +181,19 @@ p {
   border-bottom: .25rem solid #f2f2f24a;
 }
 
+.navbar-toggler {
+  border: 0px solid transparent;
+}
+
+button:focus {
+  outline: 0px dotted;
+  outline: 0px auto -webkit-focus-ring-color;
+}
+
+a:hover {
+  color: #ffffff;
+  text-decoration: none;
+}
 
 .nav-item a:hover,
 .nav-item a:focus,
@@ -201,14 +239,21 @@ i.fas.fa-times.fa-2x {
   color: #777f7f;
 }
 
+
+i.fas.fa-times {
+  font-size: 1.4em;
+  color: #9a9a9a;
+}
+
 .hero-section .splash {
-  background-color: rgb(0 0 0 / 82%);
+  background-color: rgb(0 0 0 / 64%);
   background-repeat: repeat-x;
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
   position: relative;
   min-height: inherit;
+  opacity: 0.7;
 }
 
 .hero-section.shade {
@@ -220,35 +265,37 @@ i.fas.fa-times.fa-2x {
   background-size: cover;
   position: relative;
   min-height: inherit;
+  opacity: 0.8;
 }
 
-.hero-section .title {  
-  /* font-weight: normal;
-  font-style: italic; */
-  color: rgb(255 255 255 / 76%);
+.hero-section .title { 
+  font-family: 'Crimson Text', serif;
+  font-weight: 100;
+  font-style: normal;
   display: inline-block;  
   position: relative;
-  word-spacing: .13in;
+  /* word-spacing: .13in; */
 }
 
-.hero-section .home2 .title {  
-  font-weight: 300;
-  font-style: italic;
-  font-family: 'Spectral', serif;
-  color: rgb(255 255 255 / 76%);
-  display: inline-block;  
-  position: relative;
-  word-spacing: .13in;
+.hero-section hr {
+  border-top: 1px solid rgb(194 196 194 / 68%);
+  width: 72%;
 }
 
-.hero-section .home3 .title {  
-  font-weight: 400;
-  font-style: italic;
-  font-family: 'Playfair Display', serif;
-  color: rgb(255 255 255 / 76%);
-  display: inline-block;  
-  position: relative;
-  word-spacing: .13in;
+.hero-section .btn {
+}
+
+
+.hero-section .description { 
+  font-family: 'Crimson Text', serif;
+  font-family: 'Roboto', sans-serif;
+  font-family: 'Belleza', sans-serif;
+  letter-spacing: .015in;
+  color: #fff;
+}
+
+.hero-description { 
+  color: #fff;
 }
 
 .dark {
@@ -256,30 +303,20 @@ i.fas.fa-times.fa-2x {
   background-color: rgb(0 0 0 / 41%);
 }
 
-.hero-section .home3 .size-a {
-  font-size: .9em;
-}
-
-.hero-section .home3 .size-b {
-  font-size: .7em;
-}
-
-.hero-section .home3 .size-c {
-  font-size: .5em;
-}
-
 /* US */
-
 .us .parallax {
-  background-image: url("../img/NU-MI-DESIGN-39-edit1.jpg");
-  background-attachment: fixed;
+  background-image: url('../img/img30.jpg');
+  background-repeat: repeat-x;
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
+  position: relative;
+  min-height: inherit;
+  opacity: 0.8;
 }
 
 .us .shade {
-  background-color: rgb(0 0 0 / 82%);
+  background-color: rgb(0 0 0 / 30%);
   background-repeat: repeat-x;
   background-position: center;
   background-repeat: no-repeat;
@@ -288,7 +325,184 @@ i.fas.fa-times.fa-2x {
   min-height: inherit;
 }
 
-.us .what-we-do {
-  margin-top: 2rem;
-  margin-bottom: 2rem;
+.us .what-we-do .shade {
+  background-color: rgb(0 0 0 / 82%);
+  background-repeat: repeat-x;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+  min-height: inherit;
+  color: #fff;
+  min-height: 150px;
+  min-width: 150px;
+}
+
+.us .what-we-do .bg-img1 {
+  background-image: url("../img/raffia-bags-edit1.jpg"); 
+  background-repeat: repeat-x;
+  background-position: top;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+  min-height: inherit;
+}
+
+.us .what-we-do .bg-img2 {
+  background-image: url("../img/NU-MI-DESIGN-39-Real-sepia-web.jpg"); 
+  background-repeat: repeat-x;
+  background-position: top;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+  min-height: inherit;
+}
+
+.us .what-we-do .bg-img3 {
+  background-image: url("../img/img3.jpg"); 
+  background-repeat: repeat-x;
+  background-position: top;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+  min-height: inherit;
+}
+
+.us h2 {
+  font-size: 1.3rem;
+  letter-spacing: .031in;
+}
+
+.us .profile img{
+  max-height: 350px;
+}
+
+
+
+/* WHAT WE DO */
+.what-we-do .parallax {
+  background-image: url('../img/img20.jpg');
+  background-repeat: repeat-x;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+  min-height: inherit;
+  opacity: 0.8;
+}
+
+.what-we-do .shade {
+  background-color: rgb(0 0 0 / 30%);
+  background-repeat: repeat-x;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+  min-height: inherit;
+}
+
+.what-we-do .what-we-do .shade {
+  background-color: rgb(0 0 0 / 82%);
+  background-repeat: repeat-x;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+  min-height: inherit;
+  color: #fff;
+}
+
+.what-we-do h2 {
+  font-size: 1.3rem;
+  letter-spacing: .031in;
+}
+
+.what-we-do .lead i {  
+  font-family: 'Alegreya Sans', sans-serif;
+}
+
+.what-we-do .lead {
+  font-family: 'Nunito', sans-serif;
+  font-family: 'Titillium Web', sans-serif;
+  font-weight: 300;
+}
+
+.what-we-do .profile img{
+  max-height: 350px;
+}
+
+.what-we-do .feature img{
+  max-height: 200px;
+  max-width: 200px;
+}
+
+.how-we-do img{
+  max-height: 220px;
+}
+
+
+/*  FOOTER */
+.footer-section {
+  padding-top: 3.7rem;
+  padding-bottom: 3.7rem;
+  font-family: 'Nunito', sans-serif;
+  font-family: 'Titillium Web', sans-serif;
+  font-weight: 300;
+}
+
+.footer-section.black{
+  background: #000;
+  color: #878d92;
+}
+
+.footer-section a {
+  color: #505050;
+  word-wrap: break-word;
+  font-size: 12px;
+}
+
+.footer-section.black a {
+  color: #878d92;
+}
+
+.footer-section a:hover, .footer-section a:active, .footer-section a:focus {
+  color: #000;
+}
+
+.footer-section.black a:hover, .footer-section.black a:active, .footer-section.black a:focus {
+  color: #fff;
+}
+
+.footer-section .list-group-item {
+  position: relative;
+  display: block;
+  padding: 0.2rem .25rem;
+  color: #505050;
+  background-color: transparent;
+  border: 0px;
+}
+
+.footer-section.black .list-group-item {
+  color: #878d92;
+}
+
+.footer-section .list-group {
+  font-size: 12px;
+}
+
+.footer-section .logo {
+  opacity: 1;
+}
+
+.footer-section .logo:hover {
+  opacity: .6;
+}
+
+.footer-section .socials img {
+  opacity: .7;
+  height: 20px;
+}
+
+.footer-section .socials img:hover {
+  opacity: .4;
 }

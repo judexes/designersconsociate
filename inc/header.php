@@ -1,6 +1,6 @@
 <head>
 	<!-- Meta Tags -->
-	<title>We are committed to developing sustainable solutions that invigorate the African Fashion eco system</title>
+	<title>Designer's Consociate</title>
 	<meta name="title" content="Designer's Consociate">
 	<meta name="description" content="We are committed to developing sustainable solutions that invigorate the African Fashion eco system">
 	<meta name="author" content="Designer's Consociate">
@@ -19,21 +19,24 @@
     <meta name="apple-mobile-web-app-capable" content="yes">
     <meta name="apple-mobile-web-app-status-bar-style" content="#000">
 
-    <!-- Global site tag (gtag.js) - Google Analytics -->
-    <script async src="https://www.googletagmanager.com/gtag/js?id=G-2ZWRWPQKNW"></script>
+    <!-- Global Site Tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-106737360-1"></script>
     <script>
-        window.dataLayer = window.dataLayer || [];
-        function gtag(){dataLayer.push(arguments);}
-        gtag('js', new Date());
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments)};
+      gtag('js', new Date());
 
-        gtag('config', 'G-2ZWRWPQKNW');
-    </script>
+      gtag('config', 'UA-106737360-1');
+    </script>    
 
     <!-- Bootstrap core CSS -->
     <link href="https://unpkg.com/aos@2.3.1/dist/aos.css" rel="stylesheet">
 
     <!-- Bootstrap core CSS -->
     <link href="css/vendors/bootstrap.css" rel="stylesheet">
+    
+    <!-- Custom styles for this template -->
+    <link href="assets/css/app-scss.min.css" rel="stylesheet">
     
     <!-- Custom styles for this template -->
     <link href="css/responsive.css" rel="stylesheet">

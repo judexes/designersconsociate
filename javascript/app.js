@@ -11,7 +11,7 @@ $(function () {
 window.onscroll = function() {scrollFunction()};
 
 function scrollFunction() {
-  if (document.body.scrollTop > 20 || document.documentElement.scrollTop > 20) {
+  if (document.body.scrollTop > 50 || document.documentElement.scrollTop > 50) {
     document.getElementById("navbar").style.backgroundColor = "#0e0e0f";
     document.getElementById("logo").style.height = "55px";
   } else {
@@ -25,3 +25,7 @@ function scrollFunction() {
 $("#Reloadpage").click(function () {
   location.reload();
 });
+
+
+// INITIALIZE AOS
+  AOS.init();

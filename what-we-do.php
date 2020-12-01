@@ -7,7 +7,7 @@
 
     <?php include 'inc/top-bar.php' ?>
 
-    <?php include 'sections/home2.hero.php' ?>
+    <?php include 'sections/what-we-do.php' ?>
 
     <?php include 'inc/footer.php' ?>
 
