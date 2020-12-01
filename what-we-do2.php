@@ -7,9 +7,9 @@
 
     <?php include 'inc/top-bar.php' ?>
 
-    <?php include 'sections/us.php' ?>
+    <?php include 'sections/what-we-do.php' ?>
 
-    <?php include 'inc/footer.php' ?>
+    <?php include 'inc/footer2.php' ?>
 
 
 </body>

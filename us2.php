@@ -9,7 +9,7 @@
 
     <?php include 'sections/us.php' ?>
 
-    <?php include 'inc/footer.php' ?>
+    <?php include 'inc/footer2.php' ?>
 
 
 </body>

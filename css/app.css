@@ -157,12 +157,12 @@ a {
 }
 
 .logo {
-  height: 65px;
+  height: 45px;
 }
 
 .navbar-brand {
   font-family: 'Work Sans', sans-serif; 
-  font-weight: 300;
+  /* font-weight: 300; */
 }
 
 .hamburger {
@@ -290,7 +290,6 @@ i.fas.fa-times {
   font-family: 'Crimson Text', serif;
   font-family: 'Roboto', sans-serif;
   font-family: 'Belleza', sans-serif;
-  letter-spacing: .015in;
   color: #fff;
 }
 
@@ -338,43 +337,18 @@ i.fas.fa-times {
   min-width: 150px;
 }
 
-.us .what-we-do .bg-img1 {
-  background-image: url("../img/raffia-bags-edit1.jpg"); 
-  background-repeat: repeat-x;
-  background-position: top;
-  background-repeat: no-repeat;
-  background-size: cover;
-  position: relative;
-  min-height: inherit;
-}
-
-.us .what-we-do .bg-img2 {
-  background-image: url("../img/NU-MI-DESIGN-39-Real-sepia-web.jpg"); 
-  background-repeat: repeat-x;
-  background-position: top;
-  background-repeat: no-repeat;
-  background-size: cover;
-  position: relative;
-  min-height: inherit;
-}
-
-.us .what-we-do .bg-img3 {
-  background-image: url("../img/img3.jpg"); 
-  background-repeat: repeat-x;
-  background-position: top;
-  background-repeat: no-repeat;
-  background-size: cover;
-  position: relative;
-  min-height: inherit;
-}
-
 .us h2 {
   font-size: 1.3rem;
   letter-spacing: .031in;
 }
 
 .us .profile img{
-  max-height: 350px;
+  max-height: 300px;
+  border-radius: 5px;
+}
+
+.us .aboutus-3 .profile img{
+  max-height: 450px;
 }
 
 
@@ -401,7 +375,7 @@ i.fas.fa-times {
   min-height: inherit;
 }
 
-.what-we-do .what-we-do .shade {
+.what-we-do .shade {
   background-color: rgb(0 0 0 / 82%);
   background-repeat: repeat-x;
   background-position: center;
@@ -410,6 +384,36 @@ i.fas.fa-times {
   position: relative;
   min-height: inherit;
   color: #fff;
+}
+
+.what-we-do .bg-img1 {
+  background-image: url("../img/img25.jpg"); 
+  background-repeat: repeat-x;
+  background-position: top;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+  min-height: inherit;
+}
+
+.what-we-do .bg-img2 {
+  background-image: url("../img/img3.jpg"); 
+  background-repeat: repeat-x;
+  background-position: top;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+  min-height: inherit;
+}
+
+.what-we-do .bg-img3 {
+  background-image: url("../img/img1.jpg"); 
+  background-repeat: repeat-x;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+  min-height: inherit;
 }
 
 .what-we-do h2 {
@@ -443,8 +447,8 @@ i.fas.fa-times {
 
 /*  FOOTER */
 .footer-section {
-  padding-top: 3.7rem;
-  padding-bottom: 3.7rem;
+  padding-top: 3rem;
+  padding-bottom: 3rem;
   font-family: 'Nunito', sans-serif;
   font-family: 'Titillium Web', sans-serif;
   font-weight: 300;
@@ -462,6 +466,10 @@ i.fas.fa-times {
 }
 
 .footer-section.black a {
+  color: #878d92;
+}
+
+.footer-section.black .footer {
   color: #878d92;
 }
 
@@ -501,6 +509,7 @@ i.fas.fa-times {
 .footer-section .socials img {
   opacity: .7;
   height: 20px;
+  margin: 5px;
 }
 
 .footer-section .socials img:hover {

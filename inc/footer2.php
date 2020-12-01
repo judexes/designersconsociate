@@ -1,18 +1,11 @@
 
     <!-- footer SECTION -->
     <section class="footer-section black">
-        <footer class="footer ">
+        <footer class=" ">
             <div class="container">
-                <div class="row">
-                    <div class="col-10 col-lg-3 col-md-3 col-sm-4 col-xl-3 mr-sm-auto mx-auto mx-sm-0">
-                        <div class="footer footer-description ml-2 mr-2 text-left ">
-                            <ul class="list-group my-3 mx-sm-0">
-                                <img src="img/designers-consociate-logo-2020.svg" class="logo img-fluid" alt="logo">
-                            </ul>
-                        </div>
-                    </div>
-                    <div class="col-sm-3 col-8 col-md-3 col-lg-3 col-xl-3  mx-auto mx-sm-0">
-                        <div class="footer footer-description ml-2 mr-2 text-left text-center-sm">
+                <div class="row text-center">
+                    <div class="col-12 mx-auto mx-sm-0">
+                        <div class="footer ml-2 mr-2">
                             <ul class="list-group my-3 mx-sm-0">
                                 <li class="list-group-item">
                                     <a class="align-middle" href="mailto:admin@imagefactor.com.ng">hello@designersconsociate.org</a> 
@@ -20,12 +13,19 @@
                             </ul>
                         </div>
                     </div>
-                    <div class="col-sm-3 col-8 col-md-3 col-lg-3 col-xl-3  mx-auto mx-sm-0">
-                        <div class="footer footer-description ml-2 mr-2 text-left text-center-sm">
+                    <div class="col-12 mx-auto my-3">
+                        <div class="footer footer-description ml-2 mr-2 ">
                             <div class="socials ">
                                 <img src="img/linkedin1-white.svg" alt="" class="px-2 px-sm-0">
                                 <img src="img/instagram1-white.svg" alt="" class="px-2 px-sm-0">
                             </div>
+                        </div>
+                    </div>
+                    <div class="col-12 mx-auto mx-sm-0 ">
+                        <div class="footer footer-description ml-2 mr-2 ">
+                            <ul class="list-group my-3 mx-sm-0">
+                                <img src="img/designers-consociate-logo-2020.svg" class="logo img-fluid" alt="logo">
+                            </ul>
                         </div>
                     </div>
                 </div>

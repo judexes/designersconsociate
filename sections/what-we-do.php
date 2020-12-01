@@ -33,7 +33,7 @@
     </section>
 
     <!-- WHAT WE DO -->
-    <section class="">
+    <!-- <section class="">
         <div class="container-fluid">
             <div class="row text-center">
                 <div class="col-sm-4 mt-2 feature">
@@ -59,51 +59,48 @@
                 </div>
             </div>
         </div>
-    </section>
+    </section> -->
 
-    <div class="us">
-
-        <!-- WHAT WE DO -->
-        <section class="what-we-do">
-            <div class="container-fluid">
-                <div class="row text-center">
-                    <div class="col-sm-4 p-0">
-                        <div class="bg-img1">
-                            <div class="shade">
-                                <div class="container view-height-50 view-height-0-sm center-children">
-                                    <div class="row pt-5 pt-sm-0">
-                                        <div class="offset-sm-2 col-sm-8 mt-sm-5">
-                                            <h2>Brand Development</h2>
-                                            <p>We work with companies to ensure that their brands and practices are as sustainable as possible, from material sourcing to fair wages for artisans to environmentally conscious manufacturing.</p>
-                                        </div>
+    <!-- WHAT WE DO -->
+    <section class="">
+        <div class="container-fluid">
+            <div class="row text-center">
+                <div class="col-sm-4 p-0">
+                    <div class="bg-img1">
+                        <div class="shade">
+                            <div class="container view-height-50 view-height-0-sm center-children">
+                                <div class="row pt-5 pt-sm-0">
+                                    <div class="offset-sm-2 col-sm-8 mt-sm-5">
+                                        <h2>Brand Development</h2>
+                                        <p>We work with companies to ensure that their brands and practices are as sustainable as possible, from material sourcing to fair wages for artisans to environmentally conscious manufacturing.</p>
                                     </div>
                                 </div>
                             </div>
                         </div>
                     </div>
-                    <div class="col-sm-4 p-0">
-                        <div class="bg-img2">
-                            <div class="shade">
-                                <div class="container view-height-50 view-height-0-sm center-children">
-                                    <div class="row pt-5 pt-sm-0">
-                                        <div class="offset-sm-2 col-sm-8 mt-sm-5">
-                                            <h2>Partnerships and Collaborations</h2>
-                                            <p>We create exclusive, one-off products with brands that drive our vision of craftsmanship and sustainable design to the global consumer.</p>
-                                        </div>
+                </div>
+                <div class="col-sm-4 p-0">
+                    <div class="bg-img2">
+                        <div class="shade">
+                            <div class="container view-height-50 view-height-0-sm center-children">
+                                <div class="row pt-5 pt-sm-0">
+                                    <div class="offset-sm-2 col-sm-8 mt-sm-5">
+                                        <h2>Partnerships and Collaborations</h2>
+                                        <p>We create exclusive, one-off products with brands that drive our vision of craftsmanship and sustainable design to the global consumer.</p>
                                     </div>
                                 </div>
                             </div>
                         </div>
                     </div>
-                    <div class="col-sm-4 p-0">
-                        <div class="bg-img3">
-                            <div class="shade">
-                                <div class="container view-height-50 view-height-0-sm center-children">
-                                    <div class="row pt-5 pt-sm-0">
-                                        <div class="offset-sm-2 col-sm-8 mt-sm-5">
-                                            <h2>Industry Advocacy</h2>
-                                            <p>We advocate key topics and sectors within the African Fashion industry such as waste management and indigenous textile development and revitalization.</p>
-                                        </div>
+                </div>
+                <div class="col-sm-4 p-0">
+                    <div class="bg-img3">
+                        <div class="shade">
+                            <div class="container view-height-50 view-height-0-sm center-children">
+                                <div class="row pt-5 pt-sm-0">
+                                    <div class="offset-sm-2 col-sm-8 mt-sm-5">
+                                        <h2>Industry Advocacy</h2>
+                                        <p>We advocate key topics and sectors within the African Fashion industry such as waste management and indigenous textile development and revitalization.</p>
                                     </div>
                                 </div>
                             </div>
@@ -111,8 +108,8 @@
                     </div>
                 </div>
             </div>
-        </section>
-    </div>
+        </div>
+    </section>
 
     <!-- <hr class="my-4"> -->
 

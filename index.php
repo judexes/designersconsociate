@@ -9,8 +9,6 @@
 
     <?php include 'sections/home.hero.php' ?>
 
-    <?php include  'inc/footer.php' ?>
-
     <!-- FONT AWESOME -->
     <script src="https://kit.fontawesome.com/91297e957b.js" crossorigin="anonymous"></script> <!-- ICONS RESOURCE -->
     <!-- ANIMATE ON SCROLL -->
