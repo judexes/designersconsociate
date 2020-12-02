@@ -54,14 +54,13 @@
     </section>
 
     <hr>
-    <!-- About -->
+    
     <section class="about-us aboutus-2 my-sm-5">
         <div class="container">
             <div class="row">
                 <div class="col-sm-4 mx-auto my-auto">
                     <div class="profile mb-3 mb-sm-0">
-
-                    <p class="lead text-right py-4">With a professional career spanning 15 years, Zara Odu, an award winning communications expert, has been at the forefront of the growth and development of the apparel industry, working to grow and build brands across Africa.</p>
+                        <p class="lead text-right py-4">With a professional career spanning 15 years, Zara Odu, an award winning communications expert, has been at the forefront of the growth and development of the apparel industry, working to grow and build brands across Africa.</p>
                     </div>
                 </div>
                 <div class="col-sm-4 mx-auto my-auto">
@@ -80,7 +79,6 @@
 
     <hr>
 
-    <!-- About -->
     <section class="about-us aboutus-3 my-sm-5">
         <div class="container">
             <div class="row">
@@ -145,5 +143,4 @@
             </div>
         </div>
     </section>
-
 </main>

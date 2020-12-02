@@ -8,7 +8,7 @@
                         <div class="footer ml-2 mr-2">
                             <ul class="list-group my-3 mx-sm-0">
                                 <li class="list-group-item">
-                                    <a class="align-middle" href="mailto:admin@imagefactor.com.ng">hello@designersconsociate.org</a> 
+                                    <a class="align-middle" href="mailto:hello@designersconsociate.org">hello@designersconsociate.org</a> 
                                 </li>
                             </ul>
                         </div>
