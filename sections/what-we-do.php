@@ -133,7 +133,7 @@
                         <p class="text-left">Donec ullamcorper nulla non metus auctor fringilla. Vestibulum id ligula porta felis euismod semper. Praesent commodo cursus magna,</br> vel scelerisque nisl consectetur. Fusce dapibus, tellus ac cursus commodo.</p>
                     </div>
                     <div data-aos="fade-down-left" class="col-md-5 order-md-1 text-right">
-                        <img class="img-fluid rounded mb-0" src="/img/img16.jpg" alt="">
+                        <img class="img-fluid rounded mb-0" src="img/img16.jpg" alt="">
                     </div>
                 </div>
             </div>

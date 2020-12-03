@@ -3,6 +3,10 @@
   .hero-section .title {
     font-size: 40px;
   }
+
+  .offcanvas-collapse {
+    width: 40%!important;
+  }
 }
 
 /* Small only */

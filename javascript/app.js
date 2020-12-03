@@ -13,11 +13,11 @@ window.onscroll = function() {scrollFunction()};
 function scrollFunction() {
   if (document.body.scrollTop > 50 || document.documentElement.scrollTop > 50) {
     document.getElementById("navbar").style.backgroundColor = "#0e0e0f";
-    document.getElementById("logo").style.height = "55px";
+    document.getElementById("logo").style.height = "37px";
     document.getElementById("navbar").style.fontWeight = "100";
   } else {
     document.getElementById("navbar").style.backgroundColor = "#f1f1f100";
-    document.getElementById("logo").style.height = "65px";
+    document.getElementById("logo").style.height = "44px";
     document.getElementById("navbar").style.fontWeight = "300";
   }
 }

@@ -1,7 +1,7 @@
 <nav id="navbar" class="navbar fixed-top mr-sm-5 pl-sm-3">
     <a id="Reloadpage" class="navbar-brand mr-auto mr-lg-0 my-sm-2 mx-sm-2" href="">
         <span class="d-none">Designers Consociate</span>
-        <img class="logo" id="logo" src="img/designers-consociate-logo-2020.svg" alt="image" class="img-fluid">
+        <img class="logo " id="logo" src="img/designers-consociate-logo-2020.svg" alt="image" class="img-fluid">
     </a>
     <button class="navbar-toggler p-0 border-0 mx-sm-3" type="button" data-toggle="offcanvas">
         <img class="hamburger" src="img/menu3b.svg"/>        

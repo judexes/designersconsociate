@@ -144,7 +144,8 @@ a {
   padding-left: 1rem;
   overflow-y: auto;
   visibility: hidden;
-  background-color: #000000;
+  /* background-color: #000000; */
+  background-color: #ffffff;
   transition: visibility .5s ease-in-out, -webkit-transform .5s ease-in-out;
   transition: transform .5s ease-in-out, visibility .5s ease-in-out;
   transition: transform .5s ease-in-out, visibility .5s ease-in-out, -webkit-transform .5s ease-in-out;
@@ -166,13 +167,14 @@ a {
 }
 
 .hamburger {
-  height: 30px;
+  height: 45px;
 }
 
 .nav-link {
   padding: .25rem 0;
   font-weight: 700;
-  color: rgba(255, 255, 255, .5);
+  /* color: rgba(255, 255, 255, .5); */
+  color: rgb(154 154 154);
   background-color: transparent;
 }
 
@@ -287,10 +289,11 @@ i.fas.fa-times {
 
 
 .hero-section .description { 
-  font-family: 'Crimson Text', serif;
   font-family: 'Roboto', sans-serif;
   font-family: 'Belleza', sans-serif;
+  font-family: 'Crimson Text', serif;
   color: #fff;
+  font-size: 20px;
 }
 
 .hero-description { 
@@ -366,16 +369,6 @@ i.fas.fa-times {
 }
 
 .what-we-do .shade {
-  background-color: rgb(0 0 0 / 30%);
-  background-repeat: repeat-x;
-  background-position: center;
-  background-repeat: no-repeat;
-  background-size: cover;
-  position: relative;
-  min-height: inherit;
-}
-
-.what-we-do .shade {
   background-color: rgb(0 0 0 / 82%);
   background-repeat: repeat-x;
   background-position: center;
@@ -445,6 +438,48 @@ i.fas.fa-times {
 }
 
 
+/* PROJECTS */
+.projects .parallax {
+  background-image: url('../img/img20.jpg');
+  background-repeat: repeat-x;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+  min-height: inherit;
+  opacity: 0.8;
+}
+
+.projects .shade {
+  background-color: rgb(0 0 0 / 82%);
+  background-repeat: repeat-x;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+  min-height: inherit;
+  color: #fff;
+}
+
+.projects .project img {
+  max-height: 350px;
+}
+
+.projects h2 {
+  font-size: 1.3rem;
+  letter-spacing: .031in;
+}
+
+.projects .lead i {  
+  font-family: 'Alegreya Sans', sans-serif;
+}
+
+.projects .lead {
+  font-family: 'Nunito', sans-serif;
+  font-family: 'Titillium Web', sans-serif;
+  font-weight: 300;
+}
+
 /*  FOOTER */
 .footer-section {
   padding-top: 3rem;
@@ -508,7 +543,7 @@ i.fas.fa-times {
 
 .footer-section .socials img {
   opacity: .7;
-  height: 20px;
+  height: 30px;
   margin: 5px;
 }
 
