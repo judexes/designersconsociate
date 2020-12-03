@@ -91,6 +91,7 @@ h1, h2, h3, h4, h5 {
 p {
   font-family: 'Nunito', sans-serif;
   font-family: 'Titillium Web', sans-serif;
+  font-family: 'Crimson Text', serif;
   font-weight: 300;
 }
 
@@ -139,7 +140,7 @@ a {
   /* Height of navbar */
   bottom: 0;
   left: 100%;
-  width: 100%;
+  width: 70%;
   padding-right: 1rem;
   padding-left: 1rem;
   overflow-y: auto;
@@ -170,6 +171,10 @@ a {
   height: 45px;
 }
 
+.hamburger.close {
+  height: 20px;
+}
+
 .nav-link {
   padding: .25rem 0;
   font-weight: 700;
@@ -180,7 +185,7 @@ a {
 
 .link-border {
   padding-bottom: 5px;
-  border-bottom: .25rem solid #f2f2f24a;
+  /* border-bottom: .25rem solid #f2f2f24a; */
 }
 
 .navbar-toggler {
@@ -200,14 +205,14 @@ a:hover {
 .nav-item a:hover,
 .nav-item a:focus,
 .nav-item a:active {
-  color: #fff
+  color: #000;
 }
 
 .link-border:hover,
 .link-border:focus,
 .link-border:active {
-  color: white;
-  border-bottom: .25rem solid #f2f2f2;
+  color: #000;
+  /* border-bottom: .25rem solid #f2f2f2; */
   /* text-decoration: underline; */
   -webkit-transition: color .2s ease-out;
   -moz-transition: color .2s ease-out;
@@ -229,7 +234,7 @@ a:hover {
 }
 
 #navbar #logo {
-  transition: 0.4s;
+  transition: 0.1s;
 }
 
 /* SCROLL MENU */
@@ -294,6 +299,7 @@ i.fas.fa-times {
   font-family: 'Crimson Text', serif;
   color: #fff;
   font-size: 20px;
+  margin-bottom: 30px;
 }
 
 .hero-description { 
@@ -307,7 +313,7 @@ i.fas.fa-times {
 
 /* US */
 .us .parallax {
-  background-image: url('../img/img30.jpg');
+  background-image: url('../img/img8-2.jpg');
   background-repeat: repeat-x;
   background-position: center;
   background-repeat: no-repeat;
@@ -350,6 +356,9 @@ i.fas.fa-times {
   border-radius: 5px;
 }
 
+.us .about-us {
+  margin-top: 100px!important;
+}
 .us .aboutus-3 .profile img{
   max-height: 450px;
 }
@@ -358,7 +367,7 @@ i.fas.fa-times {
 
 /* WHAT WE DO */
 .what-we-do .parallax {
-  background-image: url('../img/img20.jpg');
+  background-image: url('../img/img32.jpg');
   background-repeat: repeat-x;
   background-position: center;
   background-repeat: no-repeat;
@@ -369,7 +378,7 @@ i.fas.fa-times {
 }
 
 .what-we-do .shade {
-  background-color: rgb(0 0 0 / 82%);
+  background-color: #00000078;
   background-repeat: repeat-x;
   background-position: center;
   background-repeat: no-repeat;
@@ -377,6 +386,17 @@ i.fas.fa-times {
   position: relative;
   min-height: inherit;
   color: #fff;
+}
+
+.what-we-do .whatwedo .shade {
+  background-color: #fff;
+  background-repeat: repeat-x;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+  min-height: inherit;
+  color: #000;
 }
 
 .what-we-do .bg-img1 {
@@ -400,7 +420,7 @@ i.fas.fa-times {
 }
 
 .what-we-do .bg-img3 {
-  background-image: url("../img/img1.jpg"); 
+  background-image: url("../img/img6.jpg"); 
   background-repeat: repeat-x;
   background-position: center;
   background-repeat: no-repeat;
@@ -414,6 +434,10 @@ i.fas.fa-times {
   letter-spacing: .031in;
 }
 
+.what-we-do .my-4 {
+  margin-top: 70px 0px!important;
+}
+
 .what-we-do .lead i {  
   font-family: 'Alegreya Sans', sans-serif;
 }
@@ -421,7 +445,9 @@ i.fas.fa-times {
 .what-we-do .lead {
   font-family: 'Nunito', sans-serif;
   font-family: 'Titillium Web', sans-serif;
+  font-family: 'Crimson Text', serif;
   font-weight: 300;
+  margin: 100px 0px!important;
 }
 
 .what-we-do .profile img{

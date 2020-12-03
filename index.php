@@ -5,8 +5,7 @@
 
 <body class="">
 
-    <?php // include 'inc/top-bar.php' ?>
-    <?php include 'inc/top-bar-home.php' ?>
+    <?php include 'inc/top-bar.php' ?>
 
     <?php include 'sections/home.hero.php' ?>
 

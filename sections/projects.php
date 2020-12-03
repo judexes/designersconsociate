@@ -7,7 +7,7 @@
                 <div class="row justify-content-center align-items-center">
                     <div class="">
                         <div class="hero-description text-center">
-                            <span class="title pt-sm-0  ">Portfolio</span>
+                            <span class="title pt-sm-0  ">Our Projects</span>
                         </div>
                     </div>
                 </div>

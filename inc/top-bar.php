@@ -12,7 +12,9 @@
             <div class="row mt-3">
                 <div class="col text-right">
                     <button class="navbar-toggler p-0 border-0 mr-sm-3" type="button" data-toggle="offcanvas">
-                        <i class="fas fa-times"></i>
+                        <!-- <i class="fas fa-times"></i> -->
+                        <img class="hamburger close" src="img/cancel.svg"/>        
+
                     </button>
                 </div>
             </div>
@@ -24,13 +26,7 @@
                     <a class="nav-link" href="us.php"><span class="link-border">Us</span></a>
                 </p>
                 <p class="nav-item ">
-                    <a class="nav-link" href="us2.php"><span class="link-border">Us - Black footer</span></a>
-                </p>
-                <p class="nav-item ">
                     <a class="nav-link" href="what-we-do.php"><span class="link-border">What We Do</span></a>
-                </p>
-                <p class="nav-item ">
-                    <a class="nav-link" href="what-we-do2.php"><span class="link-border">What We Do - Black footer</span></a>
                 </p>
                 <p class="nav-item">
                     <a class="nav-link" href="projects.php"><span class="link-border">Our Projects</span></a>
