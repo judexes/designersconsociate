@@ -34,34 +34,6 @@
         </div>
     </section>
 
-    <!-- WHAT WE DO -->
-    <!-- <section class="">
-        <div class="container-fluid">
-            <div class="row text-center">
-                <div class="col-sm-4 mt-2 feature">
-                    <div class="mb-3">
-                        <img src="img/img13.jpg" alt="" class="img-fluid rounded-circle">
-                    </div>
-                    <h2>Brand Development</h2>
-                    <p>We work with companies to ensure that their brands and practices are as sustainable as possible, from material sourcing to fair wages for artisans to environmentally conscious manufacturing.</p>
-                </div>
-                <div class="col-sm-4 mt-2 feature">
-                    <div class="mb-3">
-                        <img src="img/img10.jpg" alt="" class="img-fluid rounded-circle">
-                    </div>
-                    <h2>Partnerships and Collaborations</h2>
-                    <p>We create exclusive, one-off products with brands that drive our vision of craftsmanship and sustainable design to the global consumer.</p>
-                </div>
-                <div class="col-sm-4 mt-2 feature">
-                    <div class="mb-3">
-                        <img src="img/img12.jpg" alt="" class="img-fluid rounded-circle">
-                    </div>
-                    <h2>Industry Advocacy</h2>
-                    <p>We advocate key topics and sectors within the African Fashion industry such as waste management and indigenous textile development and revitalization.</p>
-                </div>
-            </div>
-        </div>
-    </section> -->
 
     <!-- WHAT WE DO -->
     <section class="whatwedo">
