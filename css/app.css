@@ -367,7 +367,7 @@ i.fas.fa-times {
 
 /* WHAT WE DO */
 .what-we-do .parallax {
-  background-image: url('../img/img32.jpg');
+  background-image: url('../img/img32-1.jpg');
   background-repeat: repeat-x;
   background-position: center;
   background-repeat: no-repeat;
@@ -429,6 +429,10 @@ i.fas.fa-times {
   min-height: inherit;
 }
 
+.what-we-do .about-us {
+  padding-top: 70px;
+}
+
 .what-we-do h2 {
   font-size: 1.3rem;
   letter-spacing: .031in;
@@ -447,7 +451,7 @@ i.fas.fa-times {
   font-family: 'Titillium Web', sans-serif;
   font-family: 'Crimson Text', serif;
   font-weight: 300;
-  margin: 100px 0px!important;
+  margin-top: 100px!important;
 }
 
 .what-we-do .profile img{
