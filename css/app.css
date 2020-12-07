@@ -86,6 +86,7 @@ h1, h2, h3, h4, h5 {
   letter-spacing: .031in;
   font-family: 'Belleza', sans-serif;
   font-family: 'Fjalla One', sans-serif;
+  font-family: 'Crimson Text', serif;
 }
 
 p {
@@ -469,6 +470,11 @@ i.fas.fa-times {
 
 
 /* PROJECTS */
+
+.projects {
+
+}
+
 .projects .parallax {
   background-image: url('../img/img20.jpg');
   background-repeat: repeat-x;
@@ -509,6 +515,81 @@ i.fas.fa-times {
   font-family: 'Titillium Web', sans-serif;
   font-weight: 300;
 }
+
+.projects .card  {
+  border: 0px;
+}
+
+.projects .projects-section {
+  
+  margin: 70px 0px;
+}
+
+.projects .projects-section img {
+  max-height: 170px;
+}
+
+.projects .projects-section .sketch{
+  width: 130px;
+  height: 195px;
+  position: relative;
+  display: inline-block;
+}
+
+.projects .projects-section .sketch .img-top{
+  display: none;
+  position: absolute;
+  top: 0;
+  left: 0;
+  /* z-index: 99; */
+}
+
+.projects .projects-section .sketch:hover .img-top {
+  display: inline;
+}
+
+.projects .projects-section .sketch:hover .img-back {
+  display: none;
+}
+
+
+
+
+.projects .projects-section .sketch .image {
+  opacity: 1;
+  display: block;
+  width: 100%;
+  height: auto;
+  transition: .5s ease;
+  backface-visibility: hidden;
+}
+
+.projects .projects-section .sketch .middle {
+  transition: .5s ease;
+  opacity: 0;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  text-align: center;
+}
+
+.projects .projects-section .sketch:hover .image {
+  opacity: 0.3;
+}
+
+.projects .projects-section .sketch:hover .middle {
+  opacity: 1;
+}
+
+.projects .projects-section .sketch .text {
+  background-color: #000;
+  color: #fff;
+  font-size: 8px;
+  padding: 4px 12px;
+}
+
 
 /*  FOOTER */
 .footer-section {

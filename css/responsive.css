@@ -20,6 +20,9 @@
   .text-center-sm {
     text-align: center !important;
   }
+  .us .about-us {
+    margin-top: 20px!important;
+  }
 }
 
 /* Medium only */
