@@ -3,12 +3,13 @@
 @import url('https://fonts.googleapis.com/css2?family=Limelight&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Abril+Fatface&family=Playfair+Display:ital,wght@0,400;0,500;0,600;0,700;0,800;0,900;1,400;1,500;1,600;1,700;1,800;1,900&family=Prata&family=Roboto+Mono:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;1,100;1,200;1,300;1,400;1,500;1,600;1,700&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&family=Spectral:ital,wght@0,200;0,300;0,400;0,500;0,600;0,700;0,800;1,200;1,300;1,400;1,500;1,600;1,700;1,800&family=Work+Sans:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;1,100;1,200;1,300;1,400;1,500;1,600;1,700&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Crimson+Pro:ital,wght@0,200;0,300;0,400;0,500;0,600;0,700;1,200;1,300;1,400;1,500&family=Crimson+Text:ital,wght@0,400;0,600;0,700;1,400;1,600;1,700&display=swap');
+
 @font-face {
   font-family: 'Century Gothic Std';
   src: url('/css/fonts/CenturyGothicStd.woff2') format('woff2'),
-      url('/css/fonts/CenturyGothicStd.woff') format('woff'),
-      url('/css/fonts/CenturyGothicStd.ttf') format('truetype'),
-      url('/css/fonts/CenturyGothicStd.svg#CenturyGothicStd') format('svg');
+    url('/css/fonts/CenturyGothicStd.woff') format('woff'),
+    url('/css/fonts/CenturyGothicStd.ttf') format('truetype'),
+    url('/css/fonts/CenturyGothicStd.svg#CenturyGothicStd') format('svg');
   font-weight: normal;
   font-style: normal;
   font-display: swap;
@@ -38,7 +39,7 @@ body {
   font-family: 'Varela', sans-serif;
   font-family: 'Varela Round', sans-serif;
   font-family: 'Limelight', cursive;
-  font-family: 'Belleza', sans-serif;  
+  font-family: 'Belleza', sans-serif;
   font-family: 'Century Gothic Std';
   font-family: 'Abril Fatface', cursive;
   font-family: 'Playfair Display', serif;
@@ -82,7 +83,11 @@ body::-webkit-scrollbar-thumb {
   color: #eee;
 }
 
-h1, h2, h3, h4, h5 {
+h1,
+h2,
+h3,
+h4,
+h5 {
   letter-spacing: .031in;
   font-family: 'Belleza', sans-serif;
   font-family: 'Fjalla One', sans-serif;
@@ -97,7 +102,7 @@ p {
 }
 
 a:-webkit-any-link:focus {
-  outline-offset: 0px!important;
+  outline-offset: 0px !important;
 }
 
 :focus {
@@ -164,7 +169,7 @@ a {
 }
 
 .navbar-brand {
-  font-family: 'Work Sans', sans-serif; 
+  font-family: 'Work Sans', sans-serif;
   /* font-weight: 300; */
 }
 
@@ -276,11 +281,11 @@ i.fas.fa-times {
   opacity: 0.8;
 }
 
-.hero-section .title { 
+.hero-section .title {
   font-family: 'Crimson Text', serif;
   font-weight: 100;
   font-style: normal;
-  display: inline-block;  
+  display: inline-block;
   position: relative;
   /* word-spacing: .13in; */
 }
@@ -290,11 +295,10 @@ i.fas.fa-times {
   width: 72%;
 }
 
-.hero-section .btn {
-}
+.hero-section .btn {}
 
 
-.hero-section .description { 
+.hero-section .description {
   font-family: 'Roboto', sans-serif;
   font-family: 'Belleza', sans-serif;
   font-family: 'Crimson Text', serif;
@@ -303,7 +307,7 @@ i.fas.fa-times {
   margin-bottom: 30px;
 }
 
-.hero-description { 
+.hero-description {
   color: #fff;
 }
 
@@ -352,15 +356,16 @@ i.fas.fa-times {
   letter-spacing: .031in;
 }
 
-.us .profile img{
+.us .profile img {
   max-height: 300px;
   border-radius: 5px;
 }
 
 .us .about-us {
-  margin-top: 100px!important;
+  margin-top: 100px !important;
 }
-.us .aboutus-3 .profile img{
+
+.us .aboutus-3 .profile img {
   max-height: 450px;
 }
 
@@ -401,7 +406,7 @@ i.fas.fa-times {
 }
 
 .what-we-do .bg-img1 {
-  background-image: url("../img/img25.jpg"); 
+  background-image: url("../img/img25.jpg");
   background-repeat: repeat-x;
   background-position: top;
   background-repeat: no-repeat;
@@ -411,7 +416,7 @@ i.fas.fa-times {
 }
 
 .what-we-do .bg-img2 {
-  background-image: url("../img/img3.jpg"); 
+  background-image: url("../img/img3.jpg");
   background-repeat: repeat-x;
   background-position: top;
   background-repeat: no-repeat;
@@ -421,7 +426,7 @@ i.fas.fa-times {
 }
 
 .what-we-do .bg-img3 {
-  background-image: url("../img/img6.jpg"); 
+  background-image: url("../img/img6.jpg");
   background-repeat: repeat-x;
   background-position: center;
   background-repeat: no-repeat;
@@ -440,10 +445,10 @@ i.fas.fa-times {
 }
 
 .what-we-do .my-4 {
-  margin-top: 70px 0px!important;
+  margin-top: 70px 0px !important;
 }
 
-.what-we-do .lead i {  
+.what-we-do .lead i {
   font-family: 'Alegreya Sans', sans-serif;
 }
 
@@ -452,28 +457,26 @@ i.fas.fa-times {
   font-family: 'Titillium Web', sans-serif;
   font-family: 'Crimson Text', serif;
   font-weight: 300;
-  margin-top: 100px!important;
+  margin-top: 100px !important;
 }
 
-.what-we-do .profile img{
+.what-we-do .profile img {
   max-height: 350px;
 }
 
-.what-we-do .feature img{
+.what-we-do .feature img {
   max-height: 200px;
   max-width: 200px;
 }
 
-.how-we-do img{
+.how-we-do img {
   max-height: 220px;
 }
 
 
 /* PROJECTS */
 
-.projects {
-
-}
+.projects {}
 
 .projects .parallax {
   background-image: url('../img/img20.jpg');
@@ -498,7 +501,7 @@ i.fas.fa-times {
 }
 
 .projects .project img {
-  max-height: 350px;
+  max-height: 150px;
 }
 
 .projects h2 {
@@ -506,7 +509,7 @@ i.fas.fa-times {
   letter-spacing: .031in;
 }
 
-.projects .lead i {  
+.projects .lead i {
   font-family: 'Alegreya Sans', sans-serif;
 }
 
@@ -516,85 +519,57 @@ i.fas.fa-times {
   font-weight: 300;
 }
 
-.projects .card  {
-  border: 0px;
-}
-
-.projects .projects-section {
-  
-  margin: 70px 0px;
-}
-
-.projects .projects-section img {
-  max-height: 170px;
-}
-
-.projects .projects-section .sketch{
-  width: 130px;
-  height: 195px;
+.projects .project1 {
+  /* background-image: url("../img/HCDC-6-edit2.jpg");
+  background-repeat: repeat-x;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
   position: relative;
-  display: inline-block;
+  min-height: inherit;
+  color: #fff; */
 }
 
-.projects .projects-section .sketch .img-top{
-  display: none;
+.projects .project2 {
+  /* background-image: url("../img/HCDC-4edit1.jpg");
+  background-repeat: repeat-x;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+  min-height: inherit;
+  color: #fff; */
+}
+
+.projects .project .shade {
+  background-color: #fff;
+  /* background-repeat: repeat-x;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;  */
+  min-height: 400px;
+  color: #000;
+}
+
+.projects .project .overlay {
   position: absolute;
-  top: 0;
-  left: 0;
-  /* z-index: 99; */
-}
-
-.projects .projects-section .sketch:hover .img-top {
-  display: inline;
-}
-
-.projects .projects-section .sketch:hover .img-back {
-  display: none;
-}
-
-
-
-
-.projects .projects-section .sketch .image {
-  opacity: 1;
-  display: block;
-  /* width: 100%;
-  height: auto; */
-  transition: .5s ease;
-  backface-visibility: hidden;
-}
-
-.projects .projects-section .sketch .middle {
+  bottom: 0;
+  background: rgb(0, 0, 0);
+  background: rgba(0, 0, 0, 0.5);
+  /* Black see-through */
+  color: #f1f1f1;
   transition: .5s ease;
   opacity: 0;
-  position: absolute;
-  top: 80%;
-  left: 70%;
-  transform: translate(-50%, -50%);
-  -ms-transform: translate(-50%, -50%);
+  color: white;
+  font-size: 20px;
+  padding: 20px;
   text-align: center;
 }
 
-.projects .projects-section .sketch:hover .image {
-  opacity: 0.3;
-}
-
-.projects .projects-section .sketch:hover .middle {
+.projects .overlay:hover {
   opacity: 1;
 }
-
-.projects .projects-section .sketch .text {
-  background-color: #000;
-  color: #fff;
-  font-size: 8px;
-  padding: 4px 4px;
-}
-
-.projects .projects-section .socials img {
-  max-height: 12px;
-  padding: 2px;
-}
-
 
 /*  FOOTER */
 .footer-section {
@@ -605,7 +580,7 @@ i.fas.fa-times {
   font-weight: 300;
 }
 
-.footer-section.black{
+.footer-section.black {
   background: #000;
   color: #878d92;
 }
@@ -624,11 +599,15 @@ i.fas.fa-times {
   color: #878d92;
 }
 
-.footer-section a:hover, .footer-section a:active, .footer-section a:focus {
+.footer-section a:hover,
+.footer-section a:active,
+.footer-section a:focus {
   color: #000;
 }
 
-.footer-section.black a:hover, .footer-section.black a:active, .footer-section.black a:focus {
+.footer-section.black a:hover,
+.footer-section.black a:active,
+.footer-section.black a:focus {
   color: #fff;
 }
 

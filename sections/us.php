@@ -25,8 +25,8 @@
                     </div>
                 </div>
                 <div class="col-sm-5 my-auto">
-                    <div class="profile mb-3 mb-sm-0">
-                        <img src="img/zara-odu1.jpg" alt="profile" class="img-fluid">
+                    <div class="profile mb-3 mb-sm-0 text-center-sm">
+                        <img src="img/zara-odu1.jpg" alt="profile" class="img-fluid ">
                     </div>
                 </div>
             </div>
