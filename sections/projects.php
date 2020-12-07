@@ -32,7 +32,23 @@
                             <div class="sketch sketch2 col-6 ">
                                 <div class="card p-0 mt-3">
                                     <div class="card-item p-1">
-                                        <img src="img/g4962.png" alt="Avatar" class="image" style="width:100%">
+                                        <img src="img/g4962.png" alt="Avatar" class="image img-fluid">
+                                        <div class="middle">
+                                            <div class="text">
+                                                <div class="socials ">
+                                                    <img src="img/linkedin1-white.svg" alt="" class="px-2 px-sm-0">
+                                        
+                                                    <img src="img/instagram1-white.svg" alt="" class="px-2 px-sm-0">
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="sketch sketch2 col-6 ">
+                                <div class="card p-0 mt-3">
+                                    <div class="card-item p-1">
+                                        <img src="img/g5260-1.png" alt="Avatar" class="image img-fluid">
                                         <div class="middle">
                                             <div class="text">John Doe</div>
                                         </div>
@@ -42,8 +58,8 @@
                             <div class="sketch sketch3  col-6 ">
                                 <div class="card p-0 mt-3">
                                     <div class="card-item p-1">
-                                        <img src="img/g3076.png" class="img-fluid img-back">
-                                        <img src="img/g5452.png" class="img-fluid img-top">
+                                        <img src="img/g5260-1.png" class="img-fluid img-back">
+                                        <img src="img/g5452-1.png" class="img-fluid img-top">
                                     </div>
                                 </div>
                             </div>
