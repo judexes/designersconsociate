@@ -26,25 +26,27 @@
                         <div>
                             <div class="text- project row">
                                 <div class="py-2 col-6">
-                                    <a href="#">
 
-                                        <div class="overlaycontainer ">
-                                            <img src="/img/g22.png" alt="Avatar" class="image img-fluid">
-                                            <div class="overlay">
-                                                <div class="overlayText">2017</div>
+                                    <div class="overlaycontainer ">
+                                        <img src="/img/g22.png" alt="Avatar" class="image img-fluid">
+                                        <div class="overlay">
+                                            <div class="overlayText">
+                                                <h4>2017</h4>
+                                                <a href="">more...</a>
                                             </div>
                                         </div>
-                                    </a>
+                                    </div>
                                 </div>
                                 <div class="py-2 col-6">
                                     <div class="overlaycontainer ">
-                                        <a href="#">
 
                                         <img src="/img/g3826.png" alt="Avatar" class="image img-fluid">
-                                            <div class="overlay">
-                                                <div class="overlayText">2018</div>
+                                        <div class="overlay">
+                                            <div class="overlayText">
+                                                <h4>2018</h4>
+                                                <a href="">more...</a>
                                             </div>
-                                        </a>
+                                        </div>
                                     </div>
                                 </div>
                             </div>
@@ -60,27 +62,23 @@
                         <div>
                             <div class="project row">
                                 <div class="py-2 col-6 text-right ml-auto">
-                                    <a href="#">
-                                        <div class="overlaycontainer ">
-                                            <img src="img/NU-MI-DESIGN.jpg" alt="Avatar" class="image img-fluid">
-                                            <div class="overlay">
-                                                <div class="overlayText">Studio Lani</div>
-                                            </div>
+                                    <div class="overlaycontainer ">
+                                        <img src="img/NU-MI-DESIGN.jpg" alt="Avatar" class="image img-fluid">
+                                        <div class="overlay">
+                                            <div class="overlayText">Studio Lani</div>
                                         </div>
-                                    </a>
+                                    </div>
                                 </div>
                                 <div class="py-2 col-6 text-right ml-auto">
-                                    <a href="#">
-                                        <div class="overlaycontainer ">
-                                            <img src="img/raffia-bags-edit-aaks1.jpg" alt="Avatar" class="image img-fluid">
-                                            <div class="overlay">
-                                                <div class="overlayText">
-                                                    <h4>Studio Lani</h4>
-                                                    <a href="">more...</a>
-                                                </div>
+                                    <div class="overlaycontainer ">
+                                        <img src="img/raffia-bags-edit-aaks1.jpg" alt="Avatar" class="image img-fluid">
+                                        <div class="overlay">
+                                            <div class="overlayText">
+                                                <h4>Studio Lani</h4>
+                                                <a href="">Studio-Lani creates handmade sculptural lighting <br>...more</a>
                                             </div>
                                         </div>
-                                    </a>
+                                    </div>
                                 </div>
                             </div>
                         </div>
