@@ -49,6 +49,7 @@ body {
   font-family: 'Spectral', serif;
   font-family: 'Work Sans', sans-serif;
   font-family: 'Century Gothic Std';
+  font-family: 'Crimson Text', serif;
   font-weight: 200;
   overflow-x: hidden;
   background-color: #fff;
@@ -566,8 +567,9 @@ i.fas.fa-times {
 
 .overlaycontainer:hover .image {
   /* Safari 6.0 - 9.0 */
-  /* -webkit-filter: blur(1px); 
-  filter: blur(1px); */
+  -webkit-filter: blur(1px); 
+  filter: blur(1px);
+  /* border: 1px solid #fff; */
 }
 
 .overlayText {
