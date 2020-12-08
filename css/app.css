@@ -501,7 +501,7 @@ i.fas.fa-times {
 }
 
 .projects .project img {
-  max-height: 150px;
+  /* max-height: 110px; */
 }
 
 .projects h2 {
@@ -509,71 +509,74 @@ i.fas.fa-times {
   letter-spacing: .031in;
 }
 
-.projects .lead i {
-  font-family: 'Alegreya Sans', sans-serif;
-}
-
 .projects .lead {
   font-family: 'Nunito', sans-serif;
   font-family: 'Titillium Web', sans-serif;
+  font-family: 'Crimson Text', serif;
   font-weight: 300;
 }
 
-.projects .project1 {
-  /* background-image: url("../img/HCDC-6-edit2.jpg");
-  background-repeat: repeat-x;
-  background-position: center;
-  background-repeat: no-repeat;
-  background-size: cover;
-  position: relative;
-  min-height: inherit;
-  color: #fff; */
-}
 
-.projects .project2 {
-  /* background-image: url("../img/HCDC-4edit1.jpg");
-  background-repeat: repeat-x;
-  background-position: center;
-  background-repeat: no-repeat;
-  background-size: cover;
+
+.overlaycontainer {
   position: relative;
-  min-height: inherit;
-  color: #fff; */
+  /* cursor: pointer; */
+  /* width: 50%; */
 }
 
 .image {
   display: block;
+  /* width: 100%;
+  height: auto; */
 }
-
-.projects .project .shade {
-  background-color: #fff;
-  /* background-repeat: repeat-x;
-  background-position: center;
-  background-repeat: no-repeat;
-  background-size: cover;
-  position: relative;  */
-  min-height: 400px;
-  color: #000;
-}
-
-.projects .project .overlay {
-  position: relative;
+.overlay {
+  position: absolute;
   bottom: 0;
-  background: rgb(0, 0, 0);
-  background: rgba(0, 0, 0, 0.5);
-  /* Black see-through */
-  color: #f1f1f1;
-  transition: .5s ease;
-  opacity: 0;
-  color: white;
-  font-size: 20px;
-  padding: 20px;
+  left: 0;
+  right: 0;
+  background-color: #0000008f;
+  overflow: hidden;
+  width: 95%;
+  height: 95%;
+  -webkit-transform: scale(0);
+  -ms-transform: scale(0);
+  transform: scale(0);
+  -webkit-transition: .3s ease;
+  transition: .3s ease;
+  border: 1px solid #fff;
+  margin: -5px -5px 5px 5px;
+}
+
+.overlaycontainer:hover .overlay {
+  -webkit-transform: scale(1);
+  -ms-transform: scale(1);
+  transform: scale(1);
+  -webkit-filter: blur(5px); /* Safari 6.0 - 9.0 */
+  filter: blur(5px);
+}
+
+.overlaycontainer:hover .image {
+  -webkit-filter: blur(5px); /* Safari 6.0 - 9.0 */
+  filter: blur(5px);
+}
+
+.overlayText {
+  color: #fff;
+  font-size: 12px;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  -webkit-transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
   text-align: center;
 }
 
-.projects .overlay:hover {
-  opacity: 1;
-}
+
+
+
+
+
 
 /*  FOOTER */
 .footer-section {
