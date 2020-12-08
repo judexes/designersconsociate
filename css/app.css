@@ -500,6 +500,17 @@ i.fas.fa-times {
   color: #fff;
 }
 
+.projects .project2 {
+  background-color: rgb(0 0 0 / 82%);
+  background-repeat: repeat-x;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+  min-height: inherit;
+  color: #fff;
+}
+
 .projects .project img {
   /* max-height: 110px; */
 }
@@ -544,7 +555,7 @@ i.fas.fa-times {
   -webkit-transition: .3s ease;
   transition: .3s ease;
   border: 1px solid #fff;
-  margin: -5px -5px 5px 5px;
+  margin: 5px 5px 5px 5px;
 }
 
 .overlaycontainer:hover .overlay {
