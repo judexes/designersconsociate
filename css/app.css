@@ -541,6 +541,10 @@ i.fas.fa-times {
   color: #fff; */
 }
 
+.image {
+  display: block;
+}
+
 .projects .project .shade {
   background-color: #fff;
   /* background-repeat: repeat-x;
@@ -553,7 +557,7 @@ i.fas.fa-times {
 }
 
 .projects .project .overlay {
-  position: absolute;
+  position: relative;
   bottom: 0;
   background: rgb(0, 0, 0);
   background: rgba(0, 0, 0, 0.5);
