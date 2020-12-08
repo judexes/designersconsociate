@@ -19,7 +19,7 @@
             <div class="justify-content-around row ">
 
                 <div class="col-sm-6 project1 p-0">
-                    <div class=" ">
+                    <div class="">
                         <span class="text-muted">Project 1</span>
                         <h2>The Designer Shirt Project</h2>
                         <p>In 2017, we created and launched an exclusive designer initiative in Partnership with Lagos Fashion Week and the Human Capital Development Center (HCDC)</p>
@@ -28,8 +28,12 @@
                                 <img src="img/HCDC-6-edit1.jpg" alt="" class="img-fluid rounded">
                                 <img src="img/img25.jpg" alt="" class="img-fluid rounded">
                             </div>
-                            <div class="project overlay">
-                                <img src="img/HCDC-6-edit1.jpg" alt="Sketch project" class="image">
+                            <div class="project ">
+                                <img src="img/HCDC-6-edit1.jpg" alt="Sketch project" class="image img-fluid">
+                                <div class="overlay">
+                                    <div class="text">John Doe</div>
+                                </div>
+                                <img src="img/HCDC-6-edit1.jpg" alt="Sketch project" class="image img-fluid">
                                 <div class="overlay">
                                     <div class="text">John Doe</div>
                                 </div>
