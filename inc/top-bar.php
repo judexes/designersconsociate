@@ -1,10 +1,10 @@
 <nav id="navbar" class="navbar fixed-top mr-sm-5 pl-sm-3">
     <a id="Reloadpage" class="navbar-brand mr-auto mr-lg-0 my-sm-2 mx-sm-2" href="">
         <span class="d-none">Designers Consociate</span>
-        <img class="logo" id="logo" src="img/designers-consociate-logo-2020.svg" alt="image" class="img-fluid">
+        <img class="logo" id="logo" src="/img/designers-consociate-logo-2020.svg" alt="image" class="img-fluid">
     </a>
     <button class="navbar-toggler p-0 border-0 mx-sm-3" type="button" data-toggle="offcanvas">
-        <img class="hamburger" src="img/menu3b.svg"/>        
+        <img class="hamburger" src="/img/menu3b.svg"/>        
     </button>
 
     <div class="navbar-collapse offcanvas-collapse" id="navbarsExampleDefault">
@@ -13,7 +13,7 @@
                 <div class="col text-right">
                     <button class="navbar-toggler p-0 border-0 mr-sm-3" type="button" data-toggle="offcanvas">
                         <!-- <i class="fas fa-times"></i> -->
-                        <img class="hamburger close" src="img/cancel.svg"/>        
+                        <img class="close hamburger mr-sm-2 mt-sm-3 mt-2 mr-2" src="/img/cancel.svg"/>        
 
                     </button>
                 </div>
