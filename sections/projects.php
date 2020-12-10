@@ -30,24 +30,28 @@
 
                                     <div class="overlaycontainer ">
                                         <img src="img/g22.png" alt="Avatar" class="image img-fluid">
-                                        <div class="overlay">
-                                            <div class="overlayText">
-                                                <h4>2017</h4>
-                                                <a href="">more...</a>
+                                        <a href="/projects/the-designer-shirt-project-2017.php">
+                                            <div class="overlay">
+                                                <div class="overlayText">
+                                                    <h4>2017</h4>
+                                                    <span>...more</span>
+                                                </div>
                                             </div>
-                                        </div>
+                                        </a>
                                     </div>
                                 </div>
                                 <div class="py-2 col-6">
                                     <div class="overlaycontainer ">
 
                                         <img src="img/g3826.png" alt="Avatar" class="image img-fluid">
-                                        <div class="overlay">
-                                            <div class="overlayText">
-                                                <h4>2018</h4>
-                                                <a href="">more...</a>
+                                        <a href="/projects/the-designer-shirt-project-2017.php">
+                                            <div class="overlay">
+                                                <div class="overlayText">
+                                                    <h4>2018</h4>
+                                                    <span>...more</span>
+                                                </div>
                                             </div>
-                                        </div>
+                                        </a>
                                     </div>
                                 </div>
                             </div>
@@ -66,20 +70,27 @@
                                 <div class="py-2 col-6 text-right ml-auto">
                                     <div class="overlaycontainer ">
                                         <img src="img/NU-MI-DESIGN.jpg" alt="Avatar" class="image img-fluid">
-                                        <div class="overlay">
-                                            <div class="overlayText">Studio Lani</div>
-                                        </div>
+                                        <a href="/projects/the-designer-shirt-project-2017.php">
+                                            <div class="overlay">
+                                                <div class="overlayText">
+                                                    <h4>Studio Lani</h4>
+                                                    <span>Studio-Lani creates handmade sculptural lighting <br>...more</span>
+                                                </div>
+                                            </div>
+                                        </a>
                                     </div>
                                 </div>
                                 <div class="py-2 col-6 text-right ml-auto">
                                     <div class="overlaycontainer ">
                                         <img src="img/raffia-bags-edit-aaks1.jpg" alt="Avatar" class="image img-fluid">
-                                        <div class="overlay">
-                                            <div class="overlayText">
-                                                <h4>Studio Lani</h4>
-                                                <a href="">Studio-Lani creates handmade sculptural lighting <br>...more</a>
+                                        <a href="/projects/the-designer-shirt-project-2017.php">
+                                            <div class="overlay">
+                                                <div class="overlayText">
+                                                    <h4>Studio Lani</h4>
+                                                    <span>Studio-Lani creates handmade sculptural lighting <br>...more</span>
+                                                </div>
                                             </div>
-                                        </div>
+                                        </a>
                                     </div>
                                 </div>
                             </div>
