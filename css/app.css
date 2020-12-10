@@ -167,6 +167,7 @@ a {
 
 .logo {
   height: 45px;
+  transition: 0.8s;
 }
 
 .navbar-brand {
@@ -176,6 +177,7 @@ a {
 
 .hamburger {
   height: 45px;
+  opacity: 1;
 }
 
 .hamburger.close {
@@ -241,7 +243,7 @@ a:hover {
 }
 
 #navbar #logo {
-  transition: 0.1s;
+  transition: 0.6s;
 }
 
 /* SCROLL MENU */
@@ -602,7 +604,45 @@ i.fas.fa-times {
   text-align: center;
 }
 
+.post-section {
+  margin-top: 76px;
+}
 
+.single-project {
+  margin-top: 76px;
+  /* padding: 3rem;
+  background-color: #9a9a9a; */
+}
+
+.single-project .lead {
+  font-family: 'Crimson Text', serif;
+  font-family: 'Work Sans', sans-serif;
+  font-weight: 300;
+  font-size: 12px;
+  color: #ffffff;
+}
+
+.single-project .hero {
+  background-image: url('../img/NU-MI-DESIGN-39-edit1.jpg');
+  background-repeat: repeat-x;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+  min-height: inherit;
+  opacity: 0.8;
+}
+
+.single-project .shade {
+  background-color: rgb(0 0 0 / 52%);
+  background-repeat: repeat-x;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+  min-height: 50vh;
+  color: #fff;
+}
 
 
 
