@@ -26,16 +26,24 @@
     <section class="project-section mt-5">
         <div class="container view-height-100">
             <div class="shade">
-                <div class="row">
-                    <div class="overlay">
-                            <div class="text-center">
-                                <span class="title pt-sm-0  ">Project I</span>
-                            </div>                        
-                    </div>
+                <div class="row ">
                     <div class="col-sm-6 ">
-                        <div class="">
-                            <div class="text-center">
-                                <span class="title pt-sm-0  ">Project I</span>
+                        <div class="p-2">
+
+                            <img src="/img/NU-MI-DESIGN.jpg" alt="image" class="img-fluid">
+                        </div>
+                    </div>
+                    <div class="z-index-99">
+                        <div class="text-center">
+                            <span class="cursive p-3 title">Create Day | London Craft Week</span>
+                        </div>
+                    </div>
+                    <div class="col-sm-6 z-index-75">
+                        <div class="p-2 pt-5">
+
+                            <div class="">
+                                <p class="lead pt-sm-0  ">We had the opportunity to nominate two African craft brands for Create Day 2020, a new global initiative from London Craft Week, celebrating the creative process of craftsmanship, the talented makers and their work.</p>
+                                <p class="lead">We nominated</p>
                             </div>
                         </div>
                     </div>
