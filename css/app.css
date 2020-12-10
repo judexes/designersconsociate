@@ -645,7 +645,25 @@ i.fas.fa-times {
   color: #fff;
 }
 
-.single-project .title.cursive {
+.link {
+  text-decoration: underline;
+}
+
+.project-section .brand-logo {
+  max-height: 25px;
+}
+
+.project-section .brand-logo.aaks {
+  max-height: 16px;
+}
+
+.single-project .title.cursive p {
+  font-family: 'Pacifico', cursive;
+  color: #000000;
+  background: #fff;
+}
+
+.single-project .cursive {
   font-family: 'Pacifico', cursive;
   color: #000000;
   border: 1px solid #c7c7c7;
@@ -663,7 +681,7 @@ i.fas.fa-times {
 .project-section .z-index-75 {
   position: absolute;
   background: #000000;
-  top: 33%;
+  top: 37%;
   left: 49%;
   z-index: 75;
 }
@@ -697,7 +715,9 @@ i.fas.fa-times {
 
 
 
-
+small, .small {
+  font-size: 65%;
+}
 
 /*  FOOTER */
 .footer-section {
