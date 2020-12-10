@@ -42,13 +42,15 @@
                         <div class="p-2 pt-5">
                             <div class="">
                                 <p class="lead pt-sm-0  ">We had the opportunity to nominate two African craft brands for Create Day 2020, a new global initiative from London Craft Week, celebrating the creative process of craftsmanship, the talented makers and their work.</p>
-                                <p class="lead">We nominated <small><a href="" class="link">A A K S</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<a href="" class="link">Studio Lani</a></small></p>
-                                <div class="row justify-content-center align-items-center">
-                                    <div class="col">                                        
-                                        <img src="/img/StudioLani-white-on-black.png" alt="image" class="img-fluid brand-logo lani">
+                                <p class="lead">We nominated:&nbsp;&nbsp;&nbsp;<small><a href="" class="link">A A K S</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<a href="" class="link">Studio Lani</a></small></p>
+                                <div class="row">
+                                    <div class="col">
+                                        <h5 style="font-family: 'Pacifico', cursive!important;">Studio lani</h5>
+                                        <p>Studio-Lani creates handmade sculptural lighting and furniture pieces that celebrate West African elegance with a contemporary sensibility, working closely with various artisans in Nigeria. </p>
                                     </div>
-                                    <div class="col">                                        
-                                        <img src="/img/aaks_hand-crafted-white-on-black.png" alt="image" class="img-fluid brand-logo aaks">
+                                    <div class="col">
+                                        <h5 style="font-family: 'Pacifico', cursive!important;">A A K S</h5>
+                                        <p>AAKS introduces the world to the weaving techniques of the women of Ghana, while creating sustainable jobs in Africa. Handcrafted in Ghana, A A K S creates bags in styles in bright and exuberant colours that maintain the spirit and durability of their ancestral counterparts.</p>
                                     </div>
                                 </div>
                             </div>
