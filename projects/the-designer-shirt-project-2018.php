@@ -7,13 +7,36 @@
 
     <?php include '../inc/top-bar-2.php' ?>
 
-    <section>
-        <div class="container hero">
+    <section class="hero-section ">
+        <div class="container">
+            <div class="hero">
+                <div class="shade shade view-height-50 center-children">
+                    <div class="row justify-content-center align-items-center ">
+                        <div class="">
+                            <div class="text-center">
+                                <span class="title pt-sm-0  ">Project I</span>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <section class="project-section mt-5">
+        <div class="container view-height-100">
             <div class="shade">
-                <div class="row justify-content-md-center">
-                    <div class="col col-sm-10 col-md-6">
-                        <div class="text-center">
-                            <span class="lead pt-sm-0  ">Our Projects</span>
+                <div class="row">
+                    <div class="overlay">
+                            <div class="text-center">
+                                <span class="title pt-sm-0  ">Project I</span>
+                            </div>                        
+                    </div>
+                    <div class="col-sm-6 ">
+                        <div class="">
+                            <div class="text-center">
+                                <span class="title pt-sm-0  ">Project I</span>
+                            </div>
                         </div>
                     </div>
                 </div>
