@@ -4,17 +4,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Abril+Fatface&family=Playfair+Display:ital,wght@0,400;0,500;0,600;0,700;0,800;0,900;1,400;1,500;1,600;1,700;1,800;1,900&family=Prata&family=Roboto+Mono:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;1,100;1,200;1,300;1,400;1,500;1,600;1,700&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&family=Spectral:ital,wght@0,200;0,300;0,400;0,500;0,600;0,700;0,800;1,200;1,300;1,400;1,500;1,600;1,700;1,800&family=Work+Sans:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;1,100;1,200;1,300;1,400;1,500;1,600;1,700&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Crimson+Pro:ital,wght@0,200;0,300;0,400;0,500;0,600;0,700;1,200;1,300;1,400;1,500&family=Crimson+Text:ital,wght@0,400;0,600;0,700;1,400;1,600;1,700&display=swap');
 
-@font-face {
-  font-family: 'Century Gothic Std';
-  src: url('/css/fonts/CenturyGothicStd.woff2') format('woff2'),
-    url('/css/fonts/CenturyGothicStd.woff') format('woff'),
-    url('/css/fonts/CenturyGothicStd.ttf') format('truetype'),
-    url('/css/fonts/CenturyGothicStd.svg#CenturyGothicStd') format('svg');
-  font-weight: normal;
-  font-style: normal;
-  font-display: swap;
-}
-
+@import url('https://fonts.googleapis.com/css2?family=Pacifico&display=swap');
 
 html {
   scroll-behavior: smooth;
@@ -48,7 +38,6 @@ body {
   font-family: 'Roboto Mono', monospace;
   font-family: 'Spectral', serif;
   font-family: 'Work Sans', sans-serif;
-  font-family: 'Century Gothic Std';
   font-family: 'Crimson Text', serif;
   font-weight: 200;
   overflow-x: hidden;
@@ -516,7 +505,7 @@ i.fas.fa-times {
 
 .projects .project img {
   /* max-height: 110px; */
-    border: 1px solid #fff;
+  border: 1px solid #fff;
 }
 
 .projects h2 {
@@ -561,6 +550,7 @@ i.fas.fa-times {
   /* width: 100%;
   height: auto; */
 }
+
 .overlay {
   position: absolute;
   bottom: 0;
@@ -587,7 +577,7 @@ i.fas.fa-times {
 
 .overlaycontainer:hover .image {
   /* Safari 6.0 - 9.0 */
-  -webkit-filter: blur(1px); 
+  -webkit-filter: blur(1px);
   filter: blur(1px);
   /* border: 1px solid #fff; */
 }
@@ -645,7 +635,7 @@ i.fas.fa-times {
 }
 
 .project-section .shade {
-  background-color: #c8c8c8c4;
+  background-color: #ffffffc4;
   background-repeat: repeat-x;
   background-position: center;
   background-repeat: no-repeat;
@@ -655,9 +645,55 @@ i.fas.fa-times {
   color: #fff;
 }
 
-.single-project .project-section .overlay {
-  
+.single-project .title.cursive {
+  font-family: 'Pacifico', cursive;
+  color: #000000;
+  border: 1px solid #c7c7c7;
+  background: #fff;
 }
+
+.project-section .z-index-99 {
+  position: absolute;
+  background: #000000;
+  top: 30%;
+  left: 40%;
+  z-index: 99;
+}
+
+.project-section .z-index-75 {
+  position: absolute;
+  background: #000000;
+  top: 33%;
+  left: 49%;
+  z-index: 75;
+}
+
+.z-index-1 {
+  z-index: 1;
+  position: absolute;
+}
+
+.z-index-25 {
+  z-index: 25;
+  position: absolute;
+}
+
+.z-index-50 {
+  z-index: 50;
+  position: absolute;
+}
+
+.z-index-75 {
+  z-index: 75;
+  position: absolute;
+}
+
+.z-index-99 {
+  z-index: 99;
+  position: absolute;
+}
+
+.single-project .project-section .overlay {}
 
 
 
