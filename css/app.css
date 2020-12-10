@@ -614,11 +614,11 @@ i.fas.fa-times {
   background-color: #9a9a9a; */
 }
 
-.single-project .lead {
+.single-project .title {
   font-family: 'Crimson Text', serif;
   font-family: 'Work Sans', sans-serif;
-  font-weight: 300;
-  font-size: 12px;
+  /* font-weight: 300; */
+  /* font-size: 12px; */
   color: #ffffff;
 }
 
@@ -642,6 +642,21 @@ i.fas.fa-times {
   position: relative;
   min-height: 50vh;
   color: #fff;
+}
+
+.project-section .shade {
+  background-color: #c8c8c8c4;
+  background-repeat: repeat-x;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+  min-height: 50vh;
+  color: #fff;
+}
+
+.single-project .project-section .overlay {
+  
 }
 
 
