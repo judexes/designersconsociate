@@ -33,14 +33,14 @@
     <link href="https://unpkg.com/aos@2.3.1/dist/aos.css" rel="stylesheet">
 
     <!-- Bootstrap core CSS -->
-    <link href="css/vendors/bootstrap.css" rel="stylesheet">
+    <link href="/css/vendors/bootstrap.css" rel="stylesheet">
     
     <!-- Custom styles for this template -->
-    <link href="assets/css/app-scss.min.css" rel="stylesheet">
+    <link href="/assets/css/app-scss.min.css" rel="stylesheet">
     
     <!-- Custom styles for this template -->
-    <link href="css/responsive.css" rel="stylesheet">
+    <link href="/css/responsive.css" rel="stylesheet">
     
     <!-- Custom styles for this template -->
-    <link href="css/app.css" rel="stylesheet">
+    <link href="/css/app.css" rel="stylesheet">
 </head>
