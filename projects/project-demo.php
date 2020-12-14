@@ -78,7 +78,7 @@
                                 <p class="lead pt-sm-0  ">We had the opportunity to nominate two African craft brands for Create Day 2020, a new global initiative from London Craft Week, celebrating the creative process of craftsmanship, the talented makers and their work.</p>
                                 <p class="lead">We nominated:&nbsp;&nbsp;&nbsp;<small>
 
-                                    <abbr title="AAKS introduces the world to the weaving techniques of the women of Ghana, while creating sustainable jobs in Africa. Handcrafted in Ghana, A A K S creates bags in styles in bright and exuberant colours that maintain the spirit and durability of their ancestral counterparts.">
+                                    <abbr title="AAKS introduces the world to the weaving techniques of the women of Ghana, while creating sustainable jobs in Africa. Handcrafted in Ghana, A A K S creates bags in styles in bright and exuberant colours that maintain the spirit and durability of their ancestral  counterparts.">
                                         <a href="https://www.aaksonline.com/" class="link">A A K S</a>
                                     </abbr>
 
