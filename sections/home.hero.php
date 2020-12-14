@@ -12,7 +12,7 @@
                 </div>
                 <div class="row pt-2 justify-content-center">
                     <div class="col-auto">
-                        <div class="text-center">
+                        <div class="text-center"> 
                             <a href="us.php">
                                 <span class="button">us</span>
                             </a>
