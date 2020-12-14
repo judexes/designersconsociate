@@ -5,7 +5,7 @@
 
 <body class="">
 
-    <?php include 'inc/top-bar.php' ?>
+    <?php include 'inc/top-bar-2.php' ?>
 
     <?php include 'sections/contact-us.php' ?>
 
