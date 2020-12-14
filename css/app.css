@@ -715,8 +715,22 @@ i.fas.fa-times {
   position: absolute;
 }
 
-.single-project .project-section .overlay {}
+.contact-us .title {
+  font-family: 'Pacifico', cursive;
+  color: #000000;
+  background: #fff;
+}
 
+.single-project .cursive {
+  font-family: 'Pacifico', cursive;
+  color: #000000;
+  border: 1px solid #c7c7c7;
+  background: #fff;
+}
+
+.cursive {
+  font-family: 'Pacifico', cursive!important;
+}
 
 
 small, .small {
