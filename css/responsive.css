@@ -3,6 +3,9 @@
   .hero-section .title {
     font-size: 40px;
   }
+  .contact-us .title {
+    font-size: 25px;
+  }
 
   .offcanvas-collapse {
     width: 25%!important;
@@ -32,6 +35,9 @@
 @media screen and (min-width: 40em) and (max-width: 63.9375em) {
 
   .hero-section .title {
+    font-size: 32px;
+  }
+  .contact-us .title {
     font-size: 32px;
   }
 }
