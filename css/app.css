@@ -612,7 +612,7 @@ i.fas.fa-times {
   color: #ffffff;
 }
 
-.single-project .hero {
+.single-project .hero-section {
   background-image: url('../img/NU-MI-DESIGN-39-edit1.jpg');
   background-repeat: repeat-x;
   background-position: center;
@@ -715,10 +715,37 @@ i.fas.fa-times {
   position: absolute;
 }
 
+/* CONTACT */
+/* CONTACT */
+/* CONTACT */
+/* CONTACT */
+/* CONTACT */
+
+.contact-us .bg-image {
+  background-image: url('../img/HCDC-7-edit7.jpg');
+  background-repeat: repeat-x;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+  min-height: inherit;
+  opacity: 0.8;
+}
+
+.contact-us .shade {
+  background-color: rgb(0 0 0 / 52%);
+  background-repeat: repeat-x;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+  min-height: 50vh;
+  color: #fff;
+}
+
 .contact-us .title {
   font-family: 'Pacifico', cursive;
   color: #000000;
-  background: #fff;
 }
 
 .single-project .cursive {
