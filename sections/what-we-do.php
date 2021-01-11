@@ -19,13 +19,21 @@
     <section class="about-us">
         <div class="container-fluid">
             <div class="row">
-                <div class="col-sm-8 col-md-6 mx-auto text-right">
-                    <div class="">
+                <div class="col-sm-8 col-md-6 mx-auto ">
+                    <div class="text-right">
                         <span class="lead ">
                             <span class="">We highlight innovative and design-led Made-in-Africa products with a key focus on locally sourced, hand crafted, raw and waste materials.</span>
                             <br>
+                        </span>
+                    </div>
+                    <div class="text-right">
+                        <span class="lead ">
                             <span>At Designers Consociate, we are particularly interested in a slower, more organic, delicate process of Design. We develop, nurture, and promote unique and indigenous techniques and raw materials that reduce waste and enhance local economies through artisans in small communities. </span>
-                        <br><br>
+                        <br><br><br>
+                        </span>
+                    </div>
+                    <div class="text-center">
+                        <span class="lead">
                             <i class="">We are the bridge between Designers, Creatives, and Artisans.</i>
                         </span>
                     </div>

@@ -16,8 +16,12 @@
                     <div class="col-12 mx-auto my-3">
                         <div class="footer footer-description ml-2 mr-2 ">
                             <div class="socials ">
-                                <img src="/img/linkedin1.svg" alt="" class="px-2 px-sm-0">
-                                <img src="/img/instagram1.svg" alt="" class="px-2 px-sm-0">
+                                <a href="https://www.linkedin.com/company/designers-consociate">
+                                    <img src="/img/linkedin1.svg" alt="" class="px-2 px-sm-0">
+                                </a>
+                                <a href="https://www.instagram.com/designers_consociate">
+                                    <img src="/img/instagram1.svg" alt="" class="px-2 px-sm-0">
+                                </a>
                             </div>
                         </div>
                     </div>
