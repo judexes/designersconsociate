@@ -6,7 +6,7 @@
                     <div class="col mt-sm-5">
                         <div class="hero-description text-center">
                             <h1 class="title pt-5 pt-sm-0 mb-3">Sustainable Solutions</h1>
-                            <p class="description mt-1">We are committed to developing sustainable solutions that invigorate the African Fashion ecosystem</p>
+                            <p class="description mt-1">We are committed to developing sustainable solutions that invigorate the African Retail ecosystem</p>
                         </div>
                     </div>
                 </div>
@@ -14,7 +14,7 @@
                     <div class="col-auto">
                         <div class="text-center"> 
                             <a href="us.php">
-                                <span class="button">us</span>
+                                <span class="button">MORE</span>
                             </a>
                         </div>
                     </div>
