@@ -471,7 +471,7 @@ i.fas.fa-times {
 .projects {}
 
 .projects .parallax {
-  background-image: url('../img/img20.jpg');
+  background-image: url(../img/img8-2.jpg);
   background-repeat: repeat-x;
   background-position: center;
   background-repeat: no-repeat;
@@ -505,7 +505,7 @@ i.fas.fa-times {
 
 .projects .project img {
   /* max-height: 110px; */
-  border: 1px solid #fff;
+    border: 1px solid #dcdcdc;
 }
 
 .projects h2 {
@@ -559,7 +559,7 @@ i.fas.fa-times {
   background-color: #0000008f;
   overflow: hidden;
   width: 95%;
-  height: 95%;
+  height: 89%;
   -webkit-transform: scale(0);
   -ms-transform: scale(0);
   transform: scale(0);
