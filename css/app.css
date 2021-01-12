@@ -513,6 +513,11 @@ i.fas.fa-times {
   letter-spacing: .031in;
 }
 
+.projects-section a:hover {
+  color: #ffffff99;
+  text-decoration: overline;
+}
+
 .font2 {
   font-family: 'Work Sans', sans-serif;
 }
@@ -551,51 +556,45 @@ i.fas.fa-times {
   height: auto; */
 }
 
+.box {
+  position: relative;
+  max-width: 300px;
+}
+
 .overlay {
-  position: absolute;
-  bottom: 0;
-  left: 0;
-  right: 0;
-  background-color: #0000008f;
-  overflow: hidden;
-  width: 95%;
-  height: 89%;
-  -webkit-transform: scale(0);
-  -ms-transform: scale(0);
-  transform: scale(0);
-  -webkit-transition: .3s ease;
-  transition: .3s ease;
-  border: 1px solid #fff;
-  margin: 5px 5px 5px 5px;
-}
-
-.overlaycontainer:hover .overlay {
-  -webkit-transform: scale(1);
-  -ms-transform: scale(1);
-  transform: scale(1);
-}
-
-.overlaycontainer:hover .image {
-  /* Safari 6.0 - 9.0 */
-  -webkit-filter: blur(1px);
-  filter: blur(1px);
-  /* border: 1px solid #fff; */
-}
-
-.overlayText {
-  color: #fff;
+  position: absolute; 
+  bottom: 0; 
+  background: rgb(0, 0, 0);
+  background: rgba(0, 0, 0, 0.5); /* Black see-through */
+  color: #f1f1f1; 
+  width: 100%;
+  transition: .5s ease;
+  opacity:0;
+  color: white;
   font-size: 12px;
-  position: absolute;
-  top: 50%;
-  left: 50%;
-  -webkit-transform: translate(-50%, -50%);
-  -ms-transform: translate(-50%, -50%);
-  transform: translate(-50%, -50%);
   text-align: center;
 }
 
+.box:hover .overlay {
+  opacity: 1;
+}
+
+
+
+
 .post-section {
   margin-top: 76px;
+}
+
+.post-section .lead {
+  font-family: 'Work Sans', sans-serif;
+  font-weight: 300;
+  font-size: 12px;
+  color: #000;
+}
+
+.post-section a {
+  color: #686868;
 }
 
 .single-project {
@@ -649,14 +648,6 @@ i.fas.fa-times {
   text-decoration: underline;
 }
 
-.project-section .brand-logo {
-  max-height: 25px;
-}
-
-.project-section .brand-logo.aaks {
-  max-height: 16px;
-}
-
 .single-project .title.cursive p {
   font-family: 'Pacifico', cursive;
   color: #000000;
@@ -668,26 +659,6 @@ i.fas.fa-times {
   color: #000000;
   border: 1px solid #c7c7c7;
   background: #fff;
-}
-
-.cursive {
-  font-family: 'Pacifico', cursive!important;
-}
-
-.project-section .z-index-99 {
-  position: absolute;
-  background: #000000;
-  top: 30%;
-  left: 40%;
-  z-index: 99;
-}
-
-.project-section .z-index-75 {
-  position: absolute;
-  background: #000000;
-  top: 37%;
-  left: 49%;
-  z-index: 75;
 }
 
 .z-index-1 {
