@@ -32,9 +32,6 @@
                     <a class="nav-link" href="our-projects"><span class="link-border">Our Projects</span></a>
                 </p>
                 <p class="nav-item">
-                    <a class="nav-link" href="/projects/project-demo"><span class="link-border">Our Projects 2</span></a>
-                </p>
-                <p class="nav-item">
                     <a class="nav-link" href="/contact-us"><span class="link-border">Contact Us</span></a>
                 </p>
             </div>
