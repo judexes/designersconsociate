@@ -28,32 +28,28 @@
                         <p>In 2017, we created and launched an exclusive designer initiative in Partnership with Lagos Fashion Week and the Human Capital Development Center (HCDC)</p>
                         <div>
                             <div class="text- project row" style="justify-content: center; align-items: center;">
-                                <div class="py-2 col-6 col-lg-5">
-
-                                    <div class="overlaycontainer ">
-                                        <img src="img/g22.png" alt="Avatar" class="image img-fluid p-md-4 p-sm-3 p-2">
-                                        <!-- <a href="/projects/the-designer-shirt-project-2017.php">
+                                <div class="py-2 col-6  ml-auto">
+                                    <div class="box ">
+                                        <img src="img/g22.png" alt="Avatar" class="image img-fluid p-2 p-sm-3">
+                                        <a href="/projects/the-designer-shirt-project-2017.php">
                                             <div class="overlay">
-                                                <div class="overlayText">
-                                                    <h4 class="m-0">2017</h4>
-                                                    <span>...more</span>
+                                                <div class="m-sm-3 m-1">
+                                                    <h5 class="m-0">2017</h5>
                                                 </div>
                                             </div>
-                                        </a> -->
+                                        </a>
                                     </div>
                                 </div>
-                                <div class="py-2 col-6 col-lg-5">
-                                    <div class="overlaycontainer ">
-
-                                        <img src="img/g3826.png" alt="Avatar" class="image img-fluid p-md-4 p-sm-3 p-2">
-                                        <!-- <a href="/projects/the-designer-shirt-project-2018.php">
+                                <div class="py-2 col-6  ml-auto">
+                                    <div class="box ">
+                                        <img src="img/HCDC-6-edit1a.jpg" alt="Avatar" class="image img-fluid">
+                                        <a href="/projects/the-designer-shirt-project-2018.php">
                                             <div class="overlay">
-                                                <div class="overlayText">
-                                                    <h4 class="m-0">2018</h4>
-                                                    <span>...more</span>
+                                                <div class=" m-sm-3 m-1">
+                                                    <h5 class="m-0">2018</h5>
                                                 </div>
                                             </div>
-                                        </a> -->
+                                        </a>
                                     </div>
                                 </div>
                             </div>
@@ -74,7 +70,7 @@
                                 <div class="py-2 col-6  ml-auto">
                                     <div class="box ">
                                         <img src="img/NU-MI-DESIGN.jpg" alt="Avatar" class="image img-fluid">
-                                        <a href="http://studio-lani.com/" target="_blank" rel="noopener noreferrer">
+                                        <a href="http://www.studio-lani.com/" target="_blank" rel="noopener noreferrer">
                                             <div class="overlay">
                                                 <div class="m-sm-3 m-1">
                                                     <h5 class="m-0">Studio Lani</h5>
