@@ -2,7 +2,7 @@
 	<!-- Meta Tags -->
 	<title>Designer's Consociate</title>
 	<meta name="title" content="Designer's Consociate">
-	<meta name="description" content="We are committed to developing sustainable solutions that invigorate the African Fashion eco system">
+	<meta name="description" content="We are committed to developing sustainable solutions that invigorate the African Retail ecosystem">
 	<meta name="author" content="Designer's Consociate">
 	<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 	<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
