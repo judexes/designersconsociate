@@ -597,6 +597,31 @@ i.fas.fa-times {
   color: #686868;
 }
 
+.post-section .design-box {
+  position: relative;
+  /* max-width: 300px; */
+}
+
+.post-section .designer {
+  position: absolute; 
+  right: 0;
+  bottom: 0; 
+  background: rgb(0, 0, 0);
+  background: rgba(0, 0, 0, 0.5); /* Black see-through */
+  color: #f1f1f1; 
+  width: max-content;
+  transition: .5s ease;
+  opacity:1;
+  color: white;
+  font-size: 12px;
+  /* padding: 20px; */
+  text-align: right;
+}
+
+.post-section .design-box:hover .designer {
+  opacity: 0;
+}
+
 .single-project {
   margin-top: 76px;
   /* padding: 3rem;
