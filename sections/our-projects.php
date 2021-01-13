@@ -22,7 +22,7 @@
                     <div class="my-5 mx-5">
                         <span class="lead font2">Project I</span>
                         <h2 class="mb-0 py-2">
-                            <a href="/projects/the-designer-shirt-project-2018.php" class="text-dark">The Designer Shirt Project</a>
+                            <a href="/projects/the-designer-shirt-project.php" class="text-dark">The Designer Shirt Project</a>
                         </h2>
                         <p class="lead font2 mb-2 mt-1">2017 / 2018</p>
                         <p>In 2017, we created and launched an exclusive designer initiative in Partnership with Lagos Fashion Week and the Human Capital Development Center (HCDC)</p>
@@ -32,28 +32,28 @@
 
                                     <div class="overlaycontainer ">
                                         <img src="img/g22.png" alt="Avatar" class="image img-fluid p-md-4 p-sm-3 p-2">
-                                        <a href="/projects/the-designer-shirt-project-2017.php">
+                                        <!-- <a href="/projects/the-designer-shirt-project-2017.php">
                                             <div class="overlay">
                                                 <div class="overlayText">
                                                     <h4 class="m-0">2017</h4>
                                                     <span>...more</span>
                                                 </div>
                                             </div>
-                                        </a>
+                                        </a> -->
                                     </div>
                                 </div>
                                 <div class="py-2 col-6 col-lg-5">
                                     <div class="overlaycontainer ">
 
                                         <img src="img/g3826.png" alt="Avatar" class="image img-fluid p-md-4 p-sm-3 p-2">
-                                        <a href="/projects/the-designer-shirt-project-2018.php">
+                                        <!-- <a href="/projects/the-designer-shirt-project-2018.php">
                                             <div class="overlay">
                                                 <div class="overlayText">
                                                     <h4 class="m-0">2018</h4>
                                                     <span>...more</span>
                                                 </div>
                                             </div>
-                                        </a>
+                                        </a> -->
                                     </div>
                                 </div>
                             </div>
@@ -62,11 +62,11 @@
                 </div>
                 <div class="col-sm-6 project2 project p-0">
                     <div class="my-5 mx-5 text-right">
-                        <span class="text-mut-ed font2">Project II</span>
+                        <span class="lead text-white">Project II</span>
                         <h2 class="mb-0 py-2">
                             <a href="/projects/create-day-london-craft-week-2020.php">Create Day | London Craft Week</a>
                         </h2>
-                        <p class="lead date mb-2 mt-1">2020</p>
+                        <p class="lead text-white">2020</p>
                         <p>We had the opportunity to nominate two African craft brands for Create Day 2020, a new global initiative from London Craft Week, celebrating the creative process of craftsmanship, the talented makers and their work.</p>
                         <p>We nominated:</p>
                         <div>
@@ -74,9 +74,9 @@
                                 <div class="py-2 col-6  ml-auto">
                                     <div class="box ">
                                         <img src="img/NU-MI-DESIGN.jpg" alt="Avatar" class="image img-fluid">
-                                        <a href="http://studio-lani.com/">
+                                        <a href="http://studio-lani.com/" target="_blank" rel="noopener noreferrer">
                                             <div class="overlay">
-                                                <div class=" p-3">
+                                                <div class="m-sm-3 m-1">
                                                     <h5 class="m-0">Studio Lani</h5>
                                                 </div>
                                             </div>
@@ -86,9 +86,9 @@
                                 <div class="py-2 col-6  ml-auto">
                                     <div class="box ">
                                         <img src="img/raffia-bags-edit-aaks1.jpg" alt="Avatar" class="image img-fluid">
-                                        <a href="https://www.aaksonline.com/">
+                                        <a href="https://www.aaksonline.com/" target="_blank" rel="noopener noreferrer">
                                             <div class="overlay">
-                                                <div class=" p-3">
+                                                <div class=" m-sm-3 m-1">
                                                     <h5 class="m-0">AAKS</h5>
                                                 </div>
                                             </div>
