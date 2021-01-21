@@ -32,7 +32,7 @@
                         <br><br><br>
                         </span>
                     </div>
-                    <div class="text-center">
+                    <div class="text-center mb-5 mb-sm-4">
                         <span class="lead">
                             <i class="">We are the bridge between Designers, Creatives, and Artisans.</i>
                         </span>
@@ -78,11 +78,11 @@
                 <div class="col-sm-4 p-0">
                     <div class="bg-img1">
                         <div class="shade">
-                            <div class="container view-height-50 view-height-0-sm center-children">
+                            <div class="container view-height-50 view-height-0-sm ">
                                 <div class="row pt-5 pt-sm-0">
                                     <div class="offset-sm-2 col-sm-8 mt-sm-5">
                                         <h2>Brand Development</h2>
-                                        <p>We work with companies to ensure that their brands and practices are as sustainable as possible, from material sourcing to fair wages for artisans to environmentally conscious manufacturing.</p>
+                                        <p>From material sourcing to product development to fair wages for artisans to environmentally conscious manufacturing within Africa. </p>
                                         <p></p>
                                     </div>
                                 </div>
@@ -93,7 +93,7 @@
                 <div class="col-sm-4 p-0">
                     <div class="bg-img2">
                         <div class="shade">
-                            <div class="container view-height-50 view-height-0-sm center-children">
+                            <div class="container view-height-50 view-height-0-sm ">
                                 <div class="row pt-5 pt-sm-0">
                                     <div class="offset-sm-2 col-sm-8 mt-sm-5">
                                         <h2>Partnerships and Collaborations</h2>
@@ -107,7 +107,7 @@
                 <div class="col-sm-4 p-0">
                     <div class="bg-img3">
                         <div class="shade">
-                            <div class="container view-height-50 view-height-0-sm center-children">
+                            <div class="container view-height-50 view-height-0-sm ">
                                 <div class="row pt-5 pt-sm-0">
                                     <div class="offset-sm-2 col-sm-8 mt-sm-5">
                                         <h2>Industry Advocacy</h2>
