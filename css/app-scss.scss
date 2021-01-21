@@ -2,9 +2,10 @@
 .button {
 	
 	--offset: 5px;
-	--border-size: 1px;
-	position: relative;
-    padding: 0.15em 2em;
+    font-size: 12px;
+    --border-size: 1px;
+    position: relative;
+    padding: .55em 2em;
 	appearance: none;
 	border: var(--border-size);
 	background: transparent;
