@@ -251,19 +251,20 @@ i.fas.fa-times {
 }
 
 .hero-section .splash {
-  background-color: rgb(0 0 0 / 64%);
+  /* background-color: rgb(0 0 0 / 64%); */
+  background-color: rgb(0 0 0 / 22%);
   background-repeat: repeat-x;
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
   position: relative;
   min-height: inherit;
-  opacity: 0.7;
+  /* opacity: 0.7; */
 }
 
 .hero-section.shade {
   color: #fff;
-  background-image: url('../img/HCDC-7-edit6a.jpg');
+  background-image: url('../img/HCDC-7-edit6a1.jpg');
   background-repeat: repeat-x;
   background-position: top;
   background-repeat: no-repeat;
@@ -295,7 +296,7 @@ i.fas.fa-times {
   font-family: 'Belleza', sans-serif;
   font-family: 'Crimson Text', serif;
   color: #fff;
-  font-size: 20px;
+  font-size: 25px;
   margin-bottom: 30px;
 }
 
