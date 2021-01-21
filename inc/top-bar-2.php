@@ -1,7 +1,7 @@
 <nav id="navbar" class="navbar navbar-white fixed-top mr-sm-5 pl-sm-3">
     <a id="Reloadpage" class="navbar-brand mr-auto mr-lg-0 my-sm-2 mx-sm-2" href="">
         <span class="d-none">Designers Consociate</span>
-        <img class="logo " id="logo" src="/img/designers-consociate-logo-black.svg" alt="image" class="img-fluid">
+        <!-- <img class="logo " id="logo" src="/img/designers-consociate-logo-black.svg" alt="image" class="img-fluid"> -->
     </a>
     <button class="navbar-toggler p-0 border-0 mx-sm-3" type="button" data-toggle="offcanvas">
         <img class="hamburger" src="/img/menu3black.svg"/>        
@@ -18,7 +18,7 @@
             </div>
             <div class="navbar-nav mr-auto text-center mt-5">
                 <p class="nav-item">
-                    <a class="nav-link" href="/index"><span class="link-border">Home</span></a>
+                    <a class="nav-link" href="/"><span class="link-border">Home</span></a>
                 </p>
                 <p class="nav-item ">
                     <a class="nav-link" href="/us"><span class="link-border">Us</span></a>
