@@ -606,7 +606,7 @@ i.fas.fa-times {
 .post-section .designer {
   position: absolute; 
   right: 0;
-  bottom: 0; 
+  bottom: 30px; 
   background: rgb(0, 0, 0);
   background: rgba(0, 0, 0, 0.5); /* Black see-through */
   color: #f1f1f1; 
@@ -768,6 +768,13 @@ i.fas.fa-times {
   color: #000000;
   border: 1px solid #c7c7c7;
   background: #fff;
+}
+
+.carousel-control-next-icon:after, .carousel-control-prev-icon:after {
+  font-weight: 700;
+  font-family: Font Awesome\ 5 Pro,Font Awesome\ 5 Free;
+  font-size: 1.7rem;
+  color: ivory;
 }
 
 .cursive {
