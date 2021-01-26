@@ -30,7 +30,7 @@
                             <div class="text- project row" style="justify-content: center; align-items: center;">
                                 <div class="py-2 col-6  ml-auto">
                                     <div class="box ">
-                                        <img src="img/g22.png" alt="Avatar" class="image img-fluid p-2 p-sm-3">
+                                        <img src="img/g3076l.png" alt="Avatar" class="image img-fluid p-2 p-sm-3">
                                         <div class="overlay">
                                             <div class="m-sm-3 m-1">
                                                 <h5 class="m-0">2017</h5>
