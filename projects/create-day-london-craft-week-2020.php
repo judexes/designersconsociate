@@ -9,7 +9,7 @@
 
     <div class="container post-section">
         <div class="row justify-content-md-center">
-            <div class="col col-sm-8 col-md-6">
+            <div class="col col-sm-8 col-md-8">
                 <div class="row mb-3">
                     <img src="/img/aaks-lani.png" alt="Image" class="img-fluid">
                 </div>
