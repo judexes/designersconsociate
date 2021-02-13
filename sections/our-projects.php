@@ -22,10 +22,11 @@
                     <div class="my-5 mx-5">
                         <span class="lead font2">Project I</span>
                         <h2 class="mb-0 py-2">
-                            <a href="/projects/the-designer-shirt-project.php" class="text-dark">The Designer Shirt Project</a>
+                            <a href="/projects/the-designer-shirt-project" class="text-dark">The Designer Shirt Project</a>
                         </h2>
                         <p class="lead font2 mb-2 mt-1">2017 / 2018</p>
-                        <p>In 2017, we created and launched an exclusive designer initiative in Partnership with Lagos Fashion Week and the Human Capital Development Center (HCDC)</p>
+                        <p>In 2017, we created and launched an exclusive designer initiative<br>in Partnership with Lagos Fashion Week and the Human Capital Development Center <br>(HCDC)</p>
+                        <p>&nbsp;</p>
                         <div>
                             <div class="text- project row" style="justify-content: center; align-items: center;">
                                 <div class="py-2 col-6  ml-auto">
@@ -60,7 +61,7 @@
                     <div class="my-5 mx-5 text-right">
                         <span class="lead text-white">Project II</span>
                         <h2 class="mb-0 py-2">
-                            <a href="/projects/create-day-london-craft-week-2020.php">Create Day | London Craft Week</a>
+                            <a href="/projects/create-day-london-craft-week-2020">Create Day | London Craft Week</a>
                         </h2>
                         <p class="lead text-white">2020</p>
                         <p>We had the opportunity to nominate two African craft brands for Create Day 2020, a new global initiative from London Craft Week, celebrating the creative process of craftsmanship, the talented makers and their work.</p>
