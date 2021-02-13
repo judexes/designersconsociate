@@ -26,7 +26,7 @@
                     <p class="font-weight-bold m-0">AAKS</p>
                     <p>AAKS introduces the world to the weaving techniques of the women of Ghana, while creating sustainable jobs in Africa. Handcrafted in Ghana, A A K S creates bags in styles in bright and exuberant colours that maintain the spirit and durability of their ancestral counterparts. <a href="https://www.aaksonline.com/" target="_blank" rel="noopener noreferrer"><br>www.aaksonline.com</a></p>
                     <p>We were excited about these brands particularly for their discovery and use local raw materials to manufacture and innovative, high quality products.</p>
-                    <p>Their brand maker videos are now up on <a href="www.createday.org" target="_blank" rel="noopener noreferrer">www.createday.org</a></p>
+                    <p>Their brand maker videos are now up on <a href="https://www.createday.org" target="_blank" rel="noopener noreferrer">www.createday.org</a></p>
                     </div>
                 </div>
             </div>
