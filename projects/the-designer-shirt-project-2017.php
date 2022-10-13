@@ -26,7 +26,7 @@
                                 <div class="design-box">
                                     <img src="/img/g22.png" alt="Avatar" class="image img-fluid">
                                     <div class="m-sm-2 m-1">
-                                        <p class="m-0 designer px-1">By Bridget Awosika</p>
+                                        <p class="m-0 designer px-1">Bridget Awosika</p>
                                     </div>
                                 </div>
                             </div>
@@ -34,7 +34,7 @@
                                 <div class="design-box">
                                     <img src="/img/g3076.png" alt="Avatar" class="image img-fluid">
                                     <div class="m-sm-2 m-1">
-                                        <p class="m-0 designer px-1">By Vathiswa by Keji</p>
+                                        <p class="m-0 designer px-1">Keji</p>
                                     </div>
                                 </div>
                             </div>
@@ -42,7 +42,7 @@
                                 <div class="design-box">
                                     <img src="/img/g3826.png" alt="Avatar" class="image img-fluid">
                                     <div class="m-sm-2 m-1">
-                                        <p class="m-0 designer px-1">By Lisa Folawiyo</p>
+                                        <p class="m-0 designer px-1">Lisa Folawiyo</p>
                                     </div>
                                 </div>
                             </div>
@@ -50,7 +50,7 @@
                                 <div class="design-box">
                                     <img src="/img/g4108.png" alt="Avatar" class="image img-fluid">
                                     <div class="m-sm-2 m-1">
-                                        <p class="m-0 designer px-1">By Lisa Folawiyo</p>
+                                        <p class="m-0 designer px-1">Lisa Folawiyo</p>
                                     </div>
                                 </div>
                             </div>
@@ -58,7 +58,7 @@
                                 <div class="design-box">
                                     <img src="/img/g4316.png" alt="Avatar" class="image img-fluid">
                                     <div class="m-sm-2 m-1">
-                                        <p class="m-0 designer px-1">Vathiswa by Keji</p>
+                                        <p class="m-0 designer px-1">Vathiswa Keji</p>
                                     </div>
                                 </div>
                             </div>
@@ -66,7 +66,7 @@
                                 <div class="design-box">
                                     <img src="/img/g4622.png" alt="Avatar" class="image img-fluid">
                                     <div class="m-sm-2 m-1">
-                                        <p class="m-0 designer px-1">By Loza Maleombho</p>
+                                        <p class="m-0 designer px-1">Loza Maleombho</p>
                                     </div>
                                 </div>
                             </div>
@@ -74,7 +74,7 @@
                                 <div class="design-box">
                                     <img src="/img/g4962.png" alt="Avatar" class="image img-fluid">
                                     <div class="m-sm-2 m-1">
-                                        <p class="m-0 designer px-1">By Loza Maleombho</p>
+                                        <p class="m-0 designer px-1">Loza Maleombho</p>
                                     </div>
                                 </div>
                             </div>
@@ -82,7 +82,7 @@
                                 <div class="design-box">
                                     <img src="/img/g5260.png" alt="Avatar" class="image img-fluid">
                                     <div class="m-sm-2 m-1">
-                                        <p class="m-0 designer px-1">By Andrea Iyamah</p>
+                                        <p class="m-0 designer px-1">Andrea Iyamah</p>
                                     </div>
                                 </div>
                             </div>
@@ -90,7 +90,7 @@
                                 <div class="design-box">
                                     <img src="/img/g5452.png" alt="Avatar" class="image img-fluid">
                                     <div class="m-sm-2 m-1">
-                                        <p class="m-0 designer px-1">By Andrea Iyamah</p>
+                                        <p class="m-0 designer px-1">Andrea Iyamah</p>
                                     </div>
                                 </div>
                             </div>
@@ -98,7 +98,7 @@
                                 <div class="design-box">
                                     <img src="/img/g5658.png" alt="Avatar" class="image img-fluid">
                                     <div class="m-sm-2 m-1">
-                                        <p class="m-0 designer px-1">By Grey</p>
+                                        <p class="m-0 designer px-1">Grey</p>
                                     </div>
                                 </div>
                             </div>
