@@ -12,7 +12,7 @@
             <div class="col col-sm-8 col-md-8">
                 <div class="row mb-3">
                     <!-- <img src="/img/HCDC-6-edit1a.jpg" alt="Image" class="img-fluid"> -->
-                    <img src="/img/img30.jpg" alt="Image" class="img-fluid">
+                    <img src="/img/img30.jpg" alt="Image" class="img-fluid" style="width:100%">
                 </div>
                 <div class="row p-4 p-sm-0">
                     <div class="col p-0">
